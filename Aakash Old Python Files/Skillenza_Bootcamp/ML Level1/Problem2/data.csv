@@ -1,0 +1,2001 @@
+Person_ID,Own_House,Own_vehicle,Monthly_Salary,Standard_Savings,Bank_Debts,Name,Area
+1,0,1,66278,3989,1,Con,Shenavan
+2,0,0,64701,7076,1,Alphonso,Shubenka
+3,1,1,28045,5659,1,Bordy,Chowṉêy
+4,0,0,21690,6314,0,Margot,Pakxong
+5,0,0,67479,9894,0,Denice,Ardazubre
+6,1,1,75110,3193,0,Loutitia,Moñitos
+7,0,1,96030,4670,1,Jordan,Marte
+8,1,0,85385,5375,1,Dougie,Nomhon
+9,0,1,95752,2253,0,Beth,Kauhava
+10,1,0,47739,3620,1,Aland,Daixi
+11,0,0,94265,4840,1,Currey,Novyye Kuz’minki
+12,1,0,83621,9755,0,Zonda,Grabów
+13,1,0,25141,4416,0,Edyth,Wujiayao
+14,0,1,70501,1001,1,Joaquin,Créteil
+15,1,0,52566,1230,1,Laurens,Ustupo
+16,1,0,60260,8514,0,Peta,Tuquan
+17,1,1,80781,3161,1,Wilfrid,Kamenka
+18,0,1,21547,6087,0,Blithe,Negotino
+19,1,0,41510,6509,1,Jarid,Hengli
+20,0,0,57826,7250,1,Karlik,Kigoma
+21,1,0,54870,3398,1,Alden,Kunashak
+22,1,0,93935,3295,1,Claire,Voloka
+23,0,1,99545,7885,0,Julee,Suklayin
+24,0,0,23919,8375,1,Vernon,Tange Zhen
+25,0,0,74095,7427,1,Andrus,Quilo-quilo
+26,0,1,47286,5457,0,Tine,Puteaux
+27,0,0,41397,3370,1,Travis,Trubchevsk
+28,0,1,38741,5502,0,Maryann,Xiaochengzi
+29,1,1,84288,1380,1,Dale,Rāvar
+30,0,1,32580,6174,0,Kassi,Krajan Craken
+31,0,1,59366,9883,0,Kassandra,Frederiksberg
+32,1,0,64051,8090,1,Isidro,Taiping
+33,1,1,96253,4252,0,Quentin,Gualeguaychú
+34,0,0,68623,4730,1,Zeke,Mississauga
+35,0,1,78227,9624,0,Zuzana,Ipoh
+36,0,0,53886,1753,1,Wells,Qianfoling
+37,1,1,72672,5391,1,Chrotoem,Sovetskiy
+38,0,1,22285,3773,1,Bud,Igbeti
+39,0,1,36737,1903,1,Gerick,Bohus
+40,0,1,21274,8485,1,Thaddeus,Arcachon
+41,0,0,35896,6075,0,Almire,Pŭrvomaytsi
+42,0,0,89115,8470,1,Caryl,Kamalaputi
+43,1,1,41800,3865,1,Herc,Hrvatini
+44,1,1,75076,4430,1,Eli,Ganja
+45,1,1,82872,5113,0,Odette,Hongde
+46,1,1,60845,3754,0,Ula,Panitian
+47,1,0,32001,5269,1,Percy,Maralal
+48,0,0,37724,7543,1,Kennan,Paradahan
+49,0,1,35297,9940,1,Alec,Kanzaki
+50,0,0,31196,6859,0,Brigitta,Shangrao
+51,1,0,33312,2914,1,Bradly,Bojen Kulon
+52,0,0,71640,9155,0,Daffie,Bouça
+53,0,1,31651,3130,0,Louella,Jolo
+54,1,0,54119,8482,0,Camala,Aoyang
+55,0,0,89593,2064,0,Crystal,Kafachan
+56,1,0,41452,3254,1,Gene,Ljungby
+57,1,1,82879,4553,1,Averell,Séguéla
+58,1,1,64857,1088,1,Emmett,Enskede
+59,1,1,91642,5015,0,Lainey,Gakem
+60,0,1,69072,7787,1,Fernando,Mbaké
+61,1,1,51534,2338,1,Joshia,São José dos Pinhais
+62,1,0,76592,5909,1,Mikkel,Sidoger Lebak
+63,1,0,72697,3819,1,Hillard,‘Alīābād-e Katūl
+64,1,1,60527,2972,1,Gregory,Dongjiao
+65,1,0,23132,2645,1,Pietro,Atyrá
+66,0,0,99372,5087,1,Ozzy,Noen Maprang
+67,1,0,94757,6191,1,Quintus,Trinity
+68,0,0,57400,8897,0,Amalea,Akita Shi
+69,1,1,32392,5722,1,Noland,Phu Loc
+70,1,1,84771,8828,0,Kittie,Žďár
+71,0,0,57456,2031,0,Ethelin,Rostov-na-Donu
+72,1,1,58167,4813,1,Rriocard,Rubiataba
+73,0,1,86360,1321,1,Rollo,Xinji
+74,0,0,89472,7933,1,Welby,Basqal
+75,0,0,70532,3123,0,Minerva,Obršani
+76,1,0,59705,8566,1,Christian,Keda
+77,0,1,79393,4198,0,Chelsey,Geita
+78,0,0,23931,1703,0,Shanna,Bradag
+79,0,0,63366,1473,1,Patin,Lluka e Eperme
+80,0,1,36728,4460,0,Kaitlin,Ḩuraytān
+81,1,0,63764,1682,1,Vittorio,Bol’shoye Selo
+82,0,0,91756,4499,0,Kimberlee,Huangqi
+83,1,0,53168,8778,0,Cloe,Longhuashan
+84,0,1,66567,2916,0,Odette,Santa Catarina Ixtahuacán
+85,1,1,57259,3441,1,Wilmar,Independencia
+86,0,0,21214,4140,0,Merle,Phan Thong
+87,0,1,57557,5405,0,Alexandrina,Aghsu
+88,0,1,65956,1026,0,Kathye,Sabandia
+89,1,0,66995,2481,0,Tara,Jing’an
+90,1,1,96588,8411,1,Rodger,Lubochnia
+91,1,0,50399,9013,0,Deborah,Olhos de Água
+92,0,0,80774,7655,1,Rouvin,Pataias
+93,0,1,36942,3207,1,Staffard,Umingan
+94,1,1,53151,6614,0,Cynde,Triesenberg
+95,1,1,31205,2346,0,Agnese,Mirecourt
+96,1,0,57615,4372,0,Ashly,Omutninsk
+97,0,1,46435,1855,0,Anselma,Vilarinho da Castanheira
+98,0,0,30704,7186,0,Fanchon,Cabanaconde
+99,1,0,89350,6775,1,Esme,Kireyevsk
+100,1,0,72872,4085,1,Ruddie,Xinhui
+101,1,1,43105,2593,0,Barrie,Bojong
+102,1,1,95004,3082,1,Erik,Yangce
+103,0,1,39103,3116,1,Wright,Gaoqiao
+104,1,0,63707,9969,1,Emlyn,Batiovo
+105,0,1,83170,9598,1,Swen,Zhonghouhe
+106,1,0,43381,9063,1,Woodman,Buenos Aires
+107,1,1,57948,1573,1,Meredith,El Capulin
+108,1,0,39022,1008,0,Thalia,Fulnek
+109,0,1,22474,5094,1,Karel,Coripata
+110,0,1,40356,6211,1,Jeramey,Weiyang
+111,0,1,42276,9401,0,Lilla,Bāsawul
+112,1,1,65334,3408,1,Kiel,Wongka
+113,1,0,93030,4063,1,Alejandro,G’uzor
+114,0,0,56616,6972,1,Eustace,Żabbar
+115,1,0,84395,2600,1,Car,Galis
+116,1,0,25532,9072,1,Marcelo,Aioi
+117,0,0,43012,8726,0,Lani,Nantang
+118,1,0,43968,9710,1,Gris,Rappang
+119,0,0,88201,2634,1,Job,Wolfville
+120,0,1,66545,5736,1,Chane,Shanggan
+121,0,0,28201,3473,0,Isabella,Phu Luang
+122,0,1,37513,8031,0,Erinn,Bandarbeyla
+123,0,1,21415,2920,0,Jacquetta,Huancheng
+124,0,0,64087,5453,0,Maryl,Wyszków
+125,1,0,75484,4661,1,Gottfried,Zürich
+126,1,1,91947,7917,0,Lauraine,Puncakwangi
+127,0,0,32159,1637,1,Woodie,Oslo
+128,0,1,30613,1028,0,Christen,Cikaduen
+129,1,0,87756,4497,1,Lombard,Kafr Dān
+130,0,1,93663,7597,1,Dougie,Shewopo
+131,0,1,66010,4696,0,Roxine,Pochinki
+132,0,1,53654,8981,0,Claire,Tiantai Chengguanzhen
+133,0,1,58895,1216,1,Horatius,Bagong Sikat
+134,1,1,69658,5104,0,Harrietta,Jiyukou
+135,1,0,55618,6881,0,Lanie,Pedro García
+136,0,1,47193,5491,0,Janaya,Wangcao
+137,1,0,38588,9282,0,Almeta,Ashkāsham
+138,0,1,68965,9763,1,Galen,Getung
+139,0,1,48932,4218,1,Yardley,Dadong
+140,1,0,24840,5986,1,Hank,Łaskarzew
+141,1,1,82053,5703,0,Margi,Blantyre
+142,1,0,64941,7975,0,Sela,Garzón
+143,0,1,93602,9752,0,Brittaney,San Luis
+144,1,0,68340,5054,1,Barron,Lautaro
+145,1,0,93719,3898,0,Georgine,Krzyżanowice
+146,1,0,35193,5345,1,Byron,Port-aux-Français
+147,0,0,97183,1641,1,Courtney,Khomutovo
+148,0,0,46992,6652,0,Carey,Ramon Magsaysay
+149,0,1,36865,1481,1,Noll,Taranovskoye
+150,1,0,41337,9006,0,Kelly,Ozëry
+151,1,1,51267,2112,0,Filia,Evansville
+152,0,1,34987,4309,1,Lou,Malekān
+153,0,1,59233,3677,1,Kristian,Pilar
+154,1,1,21951,7324,0,Liliane,Vessada
+155,0,1,69323,7607,0,Sallyanne,Shenavan
+156,1,1,54198,1348,1,Orion,Kadubincarung
+157,1,0,22134,5932,0,Bertie,Chuanpu
+158,1,1,77040,3306,0,Daisi,Tharyarwady
+159,1,0,40741,4577,0,Concordia,Viñales
+160,0,0,87265,2142,0,Emmalynne,Bayang
+161,1,1,41206,6346,0,Kaia,Trang
+162,1,1,57993,2699,0,Malinde,Ponta do Sol
+163,1,0,92343,5162,0,Nariko,San Andrés
+164,1,1,80618,8164,0,Jillene,Kuala Lumpur
+165,0,1,51479,6528,1,Giraldo,Senggapi
+166,1,1,20349,5120,1,Amery,Chanthaburi
+167,0,0,79858,3507,0,Steffi,Norberg
+168,1,1,25128,8694,1,Dru,Pizhanka
+169,0,0,66135,6207,1,Husain,Jinbo
+170,1,1,20525,5206,0,Lorrie,Nyagan
+171,0,0,92057,3605,1,Filberto,Psevdás
+172,0,0,87919,5012,1,Thorn,Berbérati
+173,0,0,64731,8468,0,Liliane,Patria
+174,0,1,35177,8582,1,Jud,Al Ḩāḑir
+175,1,1,79438,9953,0,Flora,Thị Trấn Cao Lộc
+176,0,0,36401,4144,1,Wadsworth,Enhe Hada
+177,1,1,82634,7734,0,Mozelle,Suban
+178,0,1,86075,1853,0,Milicent,Banggel
+179,0,1,83017,9701,1,Cosme,Beylagan
+180,0,0,31351,8283,0,Felicle,Uenohara
+181,0,1,70744,8448,0,Dena,Labuhansumbawa
+182,0,0,71246,2419,1,Andrey,Jingkou
+183,0,1,43915,6900,0,Dru,Luojiang
+184,1,0,33699,8960,0,Carin,Ryazhsk
+185,1,1,34438,7033,0,Rebbecca,Haibara
+186,0,1,27654,6353,1,Braden,Chenyang
+187,1,0,73279,6313,1,Gerrard,Youxi
+188,0,1,84783,3885,1,Maddy,Huesca
+189,1,0,87935,7261,0,Elke,Baikui
+190,1,0,94064,3437,1,Neill,Vila Nova Sintra
+191,1,0,21979,4928,0,Emmey,Sundbyberg
+192,0,1,32602,9278,1,Colver,Akouda
+193,1,1,88927,7389,1,Flory,Sollefteå
+194,1,0,62539,9801,0,Iris,Shuangbaiyang
+195,0,0,85990,9759,0,Norma,El Corozo
+196,0,0,34132,2186,0,Billy,Koryčany
+197,0,1,77381,5773,1,Ferdy,Vaasa
+198,0,1,33994,9701,1,Nichols,Lahuaytambo
+199,1,0,83503,8849,0,Fanya,Beausejour
+200,0,0,62992,1519,1,Terence,Qal‘at al Andalus
+201,0,0,90061,9892,0,Nancy,Pétionville
+202,0,0,53193,1094,0,Selina,Sundsvall
+203,0,0,66779,8936,0,Melinda,Chaodi
+204,0,0,63245,7519,1,Harcourt,Bagé
+205,1,0,67580,8930,0,Billie,Vilarinho
+206,0,0,86184,3541,0,Ferne,Jawf al Maqbābah
+207,1,1,95298,3833,1,Salem,Okrouhlice
+208,1,1,80868,1618,1,Christoforo,Urrao
+209,0,0,52181,5575,0,Merrill,Lukou
+210,1,0,67013,5826,1,Boniface,Nanxinxiang
+211,0,1,44441,2784,1,Bearnard,Xiangshan
+212,0,1,44266,9130,0,Pearline,Ol Kalou
+213,1,1,86360,7318,1,Horace,Dasheng
+214,0,0,37720,1738,0,Marissa,Leonárisso
+215,0,1,83094,9428,1,Leonid,Bromma
+216,0,0,80275,4002,1,Gabbie,Rejowinangun
+217,0,1,83475,3703,1,Orton,Sơn Trà
+218,0,0,51123,9527,0,Yolane,Pasadena
+219,0,1,85672,4054,1,Gottfried,Jundian
+220,1,1,24501,9507,0,Brittani,Kedungsumurkrajan
+221,1,1,43956,6894,1,Jacques,Penhascoso
+222,0,0,70561,6817,1,Alonzo,Wangqinzhuang
+223,0,1,23128,2353,0,Becky,Houba
+224,0,0,75997,5188,0,Betteanne,Ojos de Agua
+225,1,0,50933,2073,0,Wren,Avignon
+226,0,1,71273,7354,0,Emmi,Santa Cruz de Yojoa
+227,0,1,25996,7564,0,Freddi,Stari Lec
+228,1,1,86207,2548,1,Randal,Tatebayashi
+229,1,1,84845,6392,1,Barret,Otutara
+230,0,1,24588,8549,1,Haily,Kentville
+231,0,0,26964,6457,1,Mayne,Širvintos
+232,0,0,62402,6260,1,Allayne,Skolkovo
+233,0,1,44675,5148,1,Leonerd,Kladovo
+234,1,1,27162,5924,1,Fair,Kaduketug
+235,0,0,81312,1009,1,Dominique,Shengping
+236,1,0,93563,8325,0,Josy,Kapan
+237,0,1,61893,8221,1,Duane,Ungaran
+238,1,0,39699,9573,1,Alfredo,Vorob’yovo
+239,1,1,72915,7588,1,Jordon,Chengxiang
+240,1,0,36679,7356,1,Luigi,Los Palacios
+241,1,0,59844,9951,0,Rozelle,Schirmeck
+242,1,0,42001,8288,1,Arri,Świdnica
+243,0,0,29899,1541,1,Paco,Töreboda
+244,0,1,85987,5169,0,Eleen,Maglajani
+245,0,1,55332,3671,1,Sarge,Novosheshminsk
+246,0,0,24594,2444,0,Lory,Bazi
+247,0,1,86321,6803,1,Sayers,São Gonçalo do Amarante
+248,0,0,60783,3030,0,Daisey,Jayanca
+249,0,1,70243,5983,0,Darell,San Vicente
+250,0,0,92567,9887,1,Pembroke,Banjar Laing
+251,1,0,77948,9947,1,Port,Xiashitai
+252,0,0,64775,4473,0,Tracey,Cabudare
+253,0,0,43420,7944,0,Nicole,Maliuzui
+254,0,0,81126,7822,0,Rhodia,Huanglin
+255,1,1,99462,7812,0,Leandra,Langob
+256,0,1,77439,5611,0,Letizia,Janeng
+257,1,0,31469,5536,0,Neille,Araucária
+258,0,1,82595,6787,0,Ivory,Kunjāh
+259,1,0,59890,8557,1,Zach,Kladanj
+260,1,0,26897,6462,0,Dawna,Dasheng
+261,0,1,59143,6502,0,Christan,Wangshi
+262,1,0,36075,4818,1,Worthy,Koson Shahri
+263,1,0,67947,8563,1,Goober,Öjebyn
+264,1,0,92406,8343,1,Patten,Wisznice
+265,0,0,74302,1264,1,Maddie,Pignon
+266,0,0,29644,6859,1,Jamie,Cikananga
+267,1,1,76035,8233,1,Fax,Kubangsari
+268,0,1,24952,1266,1,Homere,Desē
+269,1,1,88865,7913,0,Siusan,Muyaka
+270,1,1,34098,9643,0,Del,Granada
+271,1,0,28212,4323,0,Cymbre,Chase
+272,1,1,53482,6354,0,Alys,Na Kae
+273,0,1,33061,4996,1,Izaak,Orléans
+274,1,1,98985,5156,0,Kirbie,Žacléř
+275,1,1,67967,5865,1,Gerhardt,Pangkalan
+276,0,0,45576,1832,1,Hayden,Sovetsk
+277,1,1,28967,3578,0,Adelina,Yläne
+278,1,0,53298,5908,0,Sacha,Rybí
+279,0,1,25803,2596,0,Jorrie,Sunduan
+280,0,1,30652,2212,0,Dallas,Non Suwan
+281,0,1,90094,7635,1,Jamil,Bayombong
+282,0,0,30183,2130,0,Carlotta,Nanjiao
+283,0,1,96736,2098,1,Rawley,Baishi
+284,1,0,79249,6126,0,Jaquelyn,Głowno
+285,0,1,41415,4399,1,Fran,Orleans
+286,0,1,46215,1614,1,Devy,Milano
+287,0,1,24115,7242,1,Pauly,Novyy Svit
+288,1,1,89351,6746,1,Finley,Pyatovskiy
+289,0,0,95104,7123,1,Cord,Wulan
+290,0,1,47746,5108,0,Philis,Santo Isidro
+291,0,1,74650,5594,0,Audra,Tangalla
+292,1,0,52069,5720,1,Ode,Xinji
+293,0,1,36088,4335,1,Syman,Progreso
+294,1,0,68154,4531,0,Arlette,Seto
+295,1,0,94555,7193,0,Tate,Tipaz
+296,1,0,27622,6269,0,Kirstin,Rosario
+297,1,1,86997,6722,1,Patric,Carnaxide
+298,0,0,58084,8783,1,Derby,Mapaniqui
+299,0,1,60901,2040,0,Doralin,Rancho Nuevo
+300,1,1,32930,7829,0,Griselda,Maythalūn
+301,1,0,64412,4360,1,Derward,Ban Houayxay
+302,1,0,92747,4976,1,Adolph,Ростуша
+303,0,1,44839,7102,0,Ania,Santiago del Estero
+304,1,0,89300,3243,0,Nanete,Udon Thani
+305,1,0,23665,6689,0,Opal,Changning
+306,0,0,37962,3234,1,Weider,Krajan Selatan
+307,0,0,46089,9034,1,Montague,Colomi
+308,1,0,92192,5261,1,Garvin,Sabanagrande
+309,0,0,49050,9059,0,Marla,Bintang
+310,1,1,50538,6215,1,Cordy,Urrao
+311,0,0,97418,5252,1,Randie,Bat Khela
+312,1,0,29299,9184,0,Sapphira,Saint Louis
+313,1,0,86721,9554,0,Angel,Doom
+314,1,1,94809,8393,1,Alejoa,Xinpeicun
+315,1,0,32169,9974,0,Korie,Cigeulis
+316,1,1,34186,7954,1,Lennie,Lagoa da Prata
+317,1,0,96709,5893,0,Bliss,Tilburg
+318,0,1,63331,3972,1,Quintus,Străşeni
+319,0,0,59919,7213,0,Tatum,Xinhe
+320,0,1,86553,8681,1,Tadio,Martin
+321,1,0,51507,4578,1,Gilbert,Ålesund
+322,1,1,93625,6607,0,Channa,Kezilei
+323,1,0,95865,2210,0,Kalie,Coroico
+324,0,1,89300,5132,0,Alberta,Kiruna
+325,0,1,82941,7828,0,Laney,Chenghe
+326,1,0,87841,9170,0,Ulla,Hongcheng
+327,1,1,76708,4164,1,Gawen,Gwanda
+328,1,1,70517,4541,0,Maridel,Donostia-San Sebastian
+329,1,1,38364,3159,0,Gusta,Liushui
+330,0,0,41801,6054,0,Janna,Marston
+331,0,0,22935,8507,1,Tedd,Bambakashat
+332,1,0,25256,2793,0,Eugenie,Annan
+333,1,0,83948,2686,1,Averell,Mahates
+334,0,0,50910,2230,1,Moe,New Cebu
+335,0,1,77723,5179,0,Carolann,Thị Trấn Tủa Chùa
+336,0,1,53063,3622,0,Misha,Gândara
+337,0,1,59754,3677,0,Jewel,Gobernador Costa
+338,0,1,21933,3911,0,Rosene,La Molina
+339,0,0,59233,7812,0,Kevyn,Longquan
+340,0,1,26861,8448,1,Pall,Agbannawag
+341,1,1,57454,3940,1,Sullivan,Butuan
+342,0,1,75536,7357,1,Mischa,Koktal
+343,0,0,76650,9466,0,Robbie,Haokou
+344,0,0,57075,8760,1,Dar,Parang
+345,0,0,86436,8884,0,Germaine,Dalai
+346,1,1,78191,1659,1,Richmound,Seidu
+347,0,1,62256,8701,1,Josias,Shuiyuesi
+348,0,1,45486,9766,0,Hatti,Baryshevo
+349,0,1,93430,1657,1,Tarrance,Kumla
+350,0,0,61216,4413,0,Charity,Wanfa
+351,1,0,58224,5020,0,Sharyl,Noyon
+352,1,1,61894,7842,0,Shayla,Mingzhong
+353,0,1,65036,7171,1,Alfonso,Svetlograd
+354,0,1,37311,7624,0,Emmalyn,Sangat
+355,0,1,85365,6081,0,Deina,Dobrzeń Wielki
+356,0,0,73869,4616,1,Domenico,Girey
+357,1,1,77821,8067,0,Lurette,Shinpokh
+358,0,1,96029,6791,1,Chaim,Bilje
+359,0,1,87092,1240,1,Ole,Alak
+360,1,0,48634,9152,1,Rurik,Fufang
+361,1,1,94338,2769,1,Morey,Norrköping
+362,0,1,43125,2186,0,Carlota,Casal do Conde
+363,1,1,29994,9181,1,Claudianus,Säffle
+364,0,0,85298,4322,1,Shurlocke,Diekirch
+365,1,0,89264,3554,0,Ashien,Pimbalayan
+366,0,0,96210,4657,1,Danie,Limbi
+367,1,0,68022,6110,0,Germaine,Pyrgetós
+368,1,1,68916,8510,1,Bucky,New York City
+369,0,0,76625,5572,0,Rhetta,Liuji
+370,1,1,76624,6683,0,Daveta,Lubbock
+371,0,0,27649,5963,1,Emmanuel,Santo Ângelo
+372,1,0,79469,2200,0,Di,Kuruman
+373,1,0,58533,4245,1,Haze,Haarlem
+374,1,0,79352,8255,1,Ruprecht,Wierzchosławice
+375,1,1,65276,8365,0,Alys,Xiaotang
+376,0,1,82185,4884,0,Briana,Udënisht
+377,1,1,28438,5826,1,Saxon,Basīrpur
+378,1,1,70834,2965,0,Susette,Zhongtai
+379,1,0,71809,3858,1,Ware,Tuba
+380,0,0,72443,5348,1,Niall,Busilak
+381,1,1,96231,8635,0,Cary,Shulan
+382,0,0,43889,5796,1,Rolland,Lilla Edet
+383,0,1,47322,6073,1,Gideon,Dāngām
+384,0,1,21499,8139,0,Linet,Rybno
+385,1,1,65370,5214,1,Kingsley,Debrecen
+386,1,0,23217,3960,0,Desiri,Feodosiya
+387,1,0,47581,8157,1,Gerek,Tonosí
+388,0,0,88207,1759,0,Celestina,Batgrām
+389,0,1,51239,7815,1,Lou,Jixi
+390,1,1,46232,3667,1,Michail,Nogent-sur-Marne
+391,0,0,51798,1755,0,Agnes,Hà Tiên
+392,0,0,83557,3801,1,Stirling,Ashiya
+393,0,1,76851,5801,1,Tiler,Kluki
+394,0,1,24361,8065,0,Ashlen,Cértegui
+395,1,0,26978,9878,0,Lacee,Igpit
+396,0,0,46652,6151,1,Woody,Primero de Mayo
+397,0,1,53648,5802,0,Sheelah,Songhae
+398,0,0,32345,4493,1,Thadeus,Butel
+399,1,0,74042,8772,0,Cassy,Kolodeznyy
+400,1,1,49312,5312,0,Bianka,Xihe
+401,1,1,60110,6469,1,Dalli,Bantilan
+402,1,1,93902,2337,1,Hersch,Liulang
+403,0,0,42681,4213,1,Garrot,Moulins
+404,0,1,88487,4684,1,Ingmar,Tambulig
+405,1,0,56950,9541,1,Lancelot,Hörby
+406,0,0,83427,1429,1,Roi,Rudniki
+407,1,1,62185,7991,1,Ely,Los Frentones
+408,0,0,97361,8062,1,Vinny,Gongju
+409,1,1,66841,3645,1,Orton,Emiliano Zapata
+410,1,1,78221,2258,1,Darren,Xingtan
+411,1,0,94485,8263,1,Birk,Toila
+412,0,1,26425,9799,0,Nance,Burrel
+413,1,1,81496,1454,0,Pris,Carvoeira
+414,0,1,87282,8124,1,Harlan,Voskop
+415,0,0,86184,7146,1,Ivor,Topory
+416,1,0,93536,3969,0,Shandeigh,Kohtla-Järve
+417,0,0,54154,4285,1,Dannel,Yong’an
+418,0,0,87221,3161,0,Marita,Verkhnyaya Tura
+419,0,1,38697,8449,1,Humfried,Jingu
+420,0,1,46196,2147,0,Nan,Wenfu
+421,0,0,67568,8095,1,Burk,Dzięgielów
+422,1,1,34136,9569,0,Dela,Gweedore
+423,0,0,20169,8761,0,Honor,Martingança
+424,1,0,75369,7285,1,Sergio,Ambatolampy
+425,1,1,84966,7920,0,Gale,Mamponteng
+426,1,1,89009,5008,1,Taddeusz,Krathum Baen
+427,1,0,34600,9480,1,Farly,Černovice
+428,0,1,21332,1265,1,Alexei,Sinamaica
+429,1,1,47969,9391,1,Fran,Beyla
+430,0,0,49515,8724,0,Talya,Asarum
+431,0,1,62505,9821,1,Augustus,Shanglu
+432,1,1,46042,9159,0,Nydia,Silago
+433,1,0,57123,8371,1,Valdemar,Aygek
+434,0,0,31469,6530,0,Suzann,Guantian
+435,0,0,65959,5976,0,Dierdre,Escazú
+436,1,0,39453,5833,1,Dukey,Agua Fría
+437,0,1,67759,4890,0,Kaylee,Gongnong
+438,0,1,87825,7287,0,Filippa,Paris 10
+439,0,0,47713,6600,0,Alyson,Dapawan
+440,0,0,47592,2944,1,Graham,Cajueiro
+441,0,0,38186,3092,1,Neddie,Gospić
+442,0,1,85630,5523,1,Terri,Anningqu
+443,1,0,67925,6371,1,Farlee,Aozai
+444,0,1,27535,9351,1,Nikolos,Aulnay-sous-Bois
+445,1,0,58222,1204,0,Tracee,Kowingir
+446,0,1,44455,3850,0,Francesca,Jetak
+447,1,0,54205,2905,0,Cammy,Gyigang
+448,0,1,62414,1854,0,Elayne,Hino
+449,0,1,84568,2735,0,Hedvig,Nuevo Amanecer
+450,0,0,38386,1625,0,Caresa,Tijucas
+451,0,0,68049,6185,1,Luke,Caçapava
+452,0,0,82286,9896,0,Agatha,Yangon
+453,1,0,80548,1663,0,Cal,Decatur
+454,1,1,63877,3426,0,Stephanie,Bieniewice
+455,0,0,35418,5867,1,Hamilton,Strohonivka
+456,0,1,82716,4169,1,Darrin,Marília
+457,1,1,66074,7111,0,Valida,Wissous
+458,1,0,77735,1180,1,Patrice,Daegu
+459,1,0,37740,4189,0,Laura,Santa Rosa
+460,0,1,82792,6171,0,Brear,Bohdalov
+461,1,0,22088,7307,0,Serene,P’asanauri
+462,1,1,99506,1267,0,Carlotta,Marseille
+463,1,1,27979,6749,1,Rustie,Darungan
+464,1,0,32655,6255,0,Rana,Angono
+465,1,0,98738,3965,0,Rosa,Shangzhang
+466,0,1,72365,3597,0,Orelia,Gonghe
+467,0,0,34430,6645,0,Rosalynd,‘Izrā
+468,1,0,61853,2857,0,Correna,Portachuelo
+469,0,1,26316,5649,0,Natalie,Mukayrās
+470,0,0,43615,2574,0,Doris,Bergen
+471,1,1,41540,6662,1,Ossie,Sihanoukville
+472,1,0,90334,3366,0,Coleen,Motala
+473,1,0,34431,7252,1,Kippy,Yangzi Jianglu
+474,0,0,46378,3259,1,Travus,Baisha
+475,1,0,57594,9960,1,Clare,Taluksangay
+476,1,0,79215,1694,1,Alister,Vinhais
+477,0,1,72224,9917,1,Aube,Крива Паланка
+478,1,0,57906,1207,0,Marylee,Bašaid
+479,0,1,34013,4759,1,Fleming,El Cantón de San Pablo
+480,1,1,93030,6240,1,Cleve,Webuye
+481,0,1,27554,1100,1,Seymour,Xiapu
+482,1,1,90853,8951,0,Jaynell,Rosais
+483,1,1,43923,4122,0,Carmon,Thị Trấn Ngải Giao
+484,1,0,45061,5607,0,Fayina,Goiânia
+485,0,0,97537,9189,0,Shirlee,Caluire-et-Cuire
+486,1,0,81088,2603,0,Alisun,Oelaba
+487,1,0,79721,1984,1,Sigismond,Tyringe
+488,1,0,92872,3304,0,Lindie,Sulkava
+489,0,0,70092,7422,1,Sargent,Tokorozawa
+490,0,1,94200,2071,0,Corliss,Trelew
+491,0,0,83952,7677,0,Suzie,Bantiran
+492,0,1,30811,3719,1,Renaud,Dadiharja
+493,1,1,71460,7015,0,Paola,Hengfan
+494,1,1,84939,6476,0,Janot,Bassa
+495,1,0,58829,7209,0,Cari,Chiantla
+496,1,1,57346,2597,0,Erina,Braunschweig
+497,1,0,78991,8141,1,Corney,Huambo
+498,0,0,72171,3172,0,Berri,Vila Chã do Monte
+499,0,0,66393,4448,0,Ailey,Pucara
+500,0,1,53352,2364,0,Zelma,Aygek
+501,1,1,98416,8353,0,Kippie,Wangmeng
+502,1,0,75262,5333,1,Symon,Gaotuo
+503,0,0,33954,1794,1,Jeramie,Ressano Garcia
+504,1,1,99966,6101,0,Malva,Mỹ Xuyên
+505,1,0,82313,2405,1,Alfredo,Bor
+506,0,0,66976,8221,1,Christopher,Nizhnekamsk
+507,0,0,70172,6523,0,Claudia,Prantaan
+508,1,0,63346,6545,0,Vicky,Safara
+509,1,1,97766,1017,0,Ruthi,Bi’r al ‘Abd
+510,1,0,53762,6387,1,Bryn,Dobra
+511,1,0,82065,2812,0,Lana,Shōbu
+512,1,0,72181,9698,1,Inigo,Sabugal
+513,1,0,44978,3102,0,Hazel,Verrettes
+514,0,0,81088,6396,0,Clarisse,Ichinoseki
+515,1,1,34702,5077,1,Stillman,San Juan
+516,1,1,93931,7577,0,Milissent,São Mamede
+517,1,0,55130,7343,0,Jemmy,Borova
+518,0,1,85894,9384,1,Dani,Balangkayan
+519,0,1,67523,4144,1,Kingsley,Yujia’ao
+520,1,1,84912,7083,0,Magdaia,Sydney
+521,1,0,26469,4834,0,Orelie,Santa Monica
+522,1,1,39956,9329,0,Arlie,Novoanninskiy
+523,0,0,20152,8882,0,Nannie,Ash Shuqayrah
+524,0,1,87801,5277,1,Fritz,Agoncillo
+525,1,1,59729,5915,1,Ryan,Benavila
+526,0,1,23213,9993,0,Chrysa,San Miguel
+527,0,0,95043,4315,0,Drucie,Gonghe
+528,1,1,89382,9148,0,Bethanne,Cocachacra
+529,0,0,80695,8215,0,Carolynn,Chengbei
+530,1,1,72682,7235,0,Junia,Tim
+531,0,1,38293,5394,1,Dunstan,Pervomayskoye
+532,1,1,34368,1791,1,Titos,Piedecuesta
+533,1,1,57189,2087,1,Francis,Kramators’k
+534,1,0,76283,1305,0,Petronella,Karlshamn
+535,1,0,54128,5134,1,Igor,Libas
+536,0,1,61323,7855,1,Briant,Gazli
+537,0,1,91240,2036,0,Lizette,Anār
+538,1,0,44160,2920,1,Vance,Koga
+539,0,0,59613,8114,1,Yves,Mashui
+540,0,0,93617,3841,0,Cayla,Areado
+541,1,1,42905,7974,0,Essa,Bahía Honda
+542,1,1,88140,9706,1,Vidovic,Všestary
+543,0,1,85216,2649,0,Star,Vakhrushi
+544,1,0,99492,6685,0,Gabbie,Isak
+545,1,1,32865,1688,0,Anderea,Opatów
+546,1,0,94247,2160,1,Brose,Alfortville
+547,0,0,26697,2844,0,Lorrin,Bystřice nad Pernštejnem
+548,1,0,99991,2081,0,Vivien,Třinec
+549,1,0,49977,1940,1,Olin,Wirodayan
+550,0,1,58718,1767,0,Sarena,Linjiang
+551,0,1,28494,8705,0,Mufi,Tailing
+552,0,1,87141,3466,1,Herman,Moganshan
+553,1,1,50785,3172,1,Salomone,Sesheke
+554,1,1,84990,9265,0,Emma,Duntou
+555,1,1,89298,2870,1,Wheeler,Chatian
+556,1,1,97025,6099,0,Janey,Frederiksberg
+557,1,0,65202,2628,1,Rudyard,Strängnäs
+558,0,0,28047,5900,0,Catrina,Нераште
+559,0,0,93880,5338,1,Homer,Batambak
+560,0,0,70322,6457,1,Hugues,Shanglian
+561,1,0,66934,8810,0,Ashien,Sunfang
+562,1,1,37209,4749,0,Flore,Kurba
+563,0,1,43671,4342,1,Vale,Londres
+564,0,0,60344,5669,0,Rona,Yanqian
+565,0,1,47926,4497,1,Farley,Tarczyn
+566,1,0,45406,1016,1,Alexandros,Purísima
+567,0,0,66310,7420,1,Bear,Nai Harn
+568,1,0,57494,5125,0,Latashia,Igboho
+569,1,0,58165,8810,1,Demetri,Östersund
+570,1,1,38685,8062,1,Gian,Lousado
+571,0,1,59114,7454,0,Luelle,Saint Joseph
+572,1,0,26896,3838,0,Ruby,Tharyarwady
+573,0,0,64983,3471,0,Olimpia,Mira
+574,0,0,44866,5801,0,Debor,Wysoka
+575,0,0,28914,7714,0,Tildi,Nuquí
+576,0,1,64919,7713,0,Hetty,Shreveport
+577,0,1,56938,2359,0,Cherie,Talldaww
+578,1,1,31310,1104,0,Angelique,Bulan
+579,1,0,25834,3016,0,Calley,Quế Sơn
+580,1,1,22745,7171,1,Les,Daxing
+581,0,1,50927,4752,1,Mickie,Wangjiaping
+582,1,0,47532,9664,0,Valina,Uglyanets
+583,0,1,67222,2986,0,Shandee,Gujba
+584,1,0,74458,3843,1,Fabien,Amorim
+585,1,1,20282,6515,1,Graehme,Qili
+586,1,1,33296,1538,0,Guinevere,Wasquehal
+587,0,0,46203,6859,0,Natalee,Portela
+588,1,0,89771,7892,0,Rosalynd,Protección
+589,0,0,37661,3066,0,Liva,Nanchoc
+590,1,0,62012,5981,0,Carmen,Truskavets
+591,0,1,70711,2893,0,Vivyan,Huakoulongtan
+592,0,1,66935,8619,1,Corny,Laimuda
+593,0,0,53803,1202,1,Rock,Gombong
+594,1,0,97859,6818,0,Brooks,Banjar Tengah
+595,0,0,74373,3535,0,Shaylyn,Nāgarpur
+596,0,0,70457,5163,0,Fay,Madoi
+597,0,1,93644,8811,1,Waylan,Pitangui
+598,0,1,82282,2208,0,Mag,Buenavista
+599,1,1,79134,2378,1,Galvin,Kushtia
+600,1,0,70563,1086,0,Courtnay,Liliongan
+601,1,1,41647,6232,0,Barb,Piaski
+602,0,0,56451,5504,0,Charlotte,Cojata
+603,0,1,68658,4618,1,Keene,Padova
+604,1,0,99529,7820,0,Nadean,Parys
+605,0,0,85180,7711,1,Theo,Bolaoit
+606,0,0,70225,9527,1,Hogan,Manzanares
+607,0,0,27760,7639,0,Amye,Krabi
+608,0,1,23113,4491,0,Hatty,Mojo
+609,0,0,70653,2837,1,Thibaud,Shuanghe
+610,1,1,84790,7919,0,Inge,Naguilian
+611,0,1,44950,9617,1,Hadleigh,Hagonoy
+612,1,1,58746,4404,1,Dana,Féres
+613,0,1,67468,2589,0,Sadie,Skänninge
+614,1,0,93420,5003,0,Hedwiga,Stegna
+615,1,1,61986,6971,1,Reider,Maochen
+616,1,0,24113,6652,0,Aleta,Monroe
+617,1,1,46938,1266,1,Luce,Dampek
+618,1,1,25451,1443,1,Gian,Tumen
+619,1,0,87782,6676,1,Ricky,Songhae
+620,1,1,32692,1355,0,Melissa,Mondoteko
+621,0,1,25498,9465,1,Warren,Leloboko
+622,1,1,34279,4029,1,Vaughan,Guling
+623,0,1,40924,6658,0,Hilda,Yunmeng Chengguanzhen
+624,0,0,87924,5376,0,Kiele,Mulatupo
+625,0,0,44899,5572,1,Michail,Pindamonhangaba
+626,0,1,74216,3133,0,Chickie,El Pino
+627,0,1,92637,9302,1,Jarret,Vilar do Monte
+628,1,1,37818,8363,1,Alair,Longquan
+629,1,1,75130,2444,1,Broddy,Hecun
+630,1,1,34367,6366,0,Paulina,Sydney
+631,0,1,84381,3973,1,Bryn,Berlín
+632,0,0,68993,3867,1,Thorin,Torbeck
+633,0,1,60232,5417,1,Aldrich,Caromatan
+634,1,1,93734,6382,0,Aubrette,Przasnysz
+635,1,1,46205,5807,0,Sophie,Goianésia
+636,1,0,62915,8959,1,Cliff,Kyŏngsŏng
+637,1,0,93185,4426,0,Julietta,Pokrovskoye
+638,0,0,55079,6887,1,Thebault,Palmas
+639,0,1,72210,9921,1,Janek,Vân Đình
+640,0,0,57978,9206,1,Nikolas,Celso Ramos
+641,1,0,89651,4588,1,Cliff,Riangwale
+642,0,1,70918,8664,1,Shurwood,Notsé
+643,1,1,52254,8281,1,Adriano,Yueshan
+644,1,1,69113,4485,1,Adriano,Charlotte Amalie
+645,0,0,22425,6724,1,Andras,Kedungdoro
+646,1,0,33220,4729,1,Hall,Banqiao
+647,0,0,24621,6968,0,Deena,Arīḩā
+648,0,1,30768,7504,0,Gussi,Cekcyn
+649,1,0,72192,1089,1,Caz,Longkali
+650,0,1,58928,4970,0,Bree,Detroit
+651,0,1,89625,1154,0,Paloma,Gaohu
+652,0,1,57742,5399,1,Ricki,Cheongpyeong
+653,0,0,40282,4220,1,Winfield,Fangtang
+654,0,1,82770,3878,0,Lorri,Il’skiy
+655,0,0,67976,8451,0,Charmine,Banjarbaru
+656,0,1,37179,5162,1,Franklin,Karpogory
+657,0,1,75835,8455,0,Cathee,Reims
+658,1,1,49801,2365,1,Ossie,Osypenko
+659,0,1,27495,8275,0,Minnaminnie,Åmål
+660,1,0,23685,4330,0,Juana,Berck
+661,0,1,93069,8838,1,Bren,Yamen
+662,1,1,77532,6715,1,Aldous,Xiyang
+663,1,0,87813,4369,1,Worth,Saint-Denis
+664,0,0,37395,3076,0,Meredith,Vorontsovka
+665,1,1,24602,3857,0,Stormie,Ashchysay
+666,1,1,46045,4952,1,Gail,Chicago
+667,0,0,97113,9919,0,Agnese,Busdi
+668,1,1,91208,3851,0,Juli,Lincheng
+669,0,0,71719,6720,0,Marys,Khāsh
+670,0,0,68174,2950,0,Viva,Gandusari
+671,0,0,21737,3365,1,Jarib,København
+672,0,1,37690,1729,1,Guido,Guantouzui
+673,1,0,53301,1504,1,Owen,Norak
+674,0,0,55124,7507,0,Jacintha,Benešov
+675,0,0,49970,8862,1,Mikkel,Gryazovets
+676,0,0,20007,9711,0,Felisha,Castanheira de Pêra
+677,0,1,76105,4790,1,Hunter,Japerejo
+678,0,1,58526,4499,1,Skylar,České Meziříčí
+679,1,1,55188,1496,0,Anjanette,President Roxas
+680,1,0,80411,2868,0,Ros,Čapljina
+681,0,1,48060,3060,1,Gifford,Tama
+682,1,1,73994,2758,1,Giusto,Cibingbin
+683,0,1,82146,6403,0,Letta,Sakaiminato
+684,0,0,48365,6080,0,Ariela,Al Bāriqīyah
+685,1,0,92467,6183,0,Allyson,Skalbmierz
+686,1,0,40166,7496,0,Oralee,Dakhla
+687,1,1,80040,2579,1,Ferdie,Chenji
+688,1,1,29977,1293,1,Lem,Lanxi
+689,1,0,75656,1788,0,Gianna,Soritor
+690,1,0,73231,3740,1,Murvyn,Cruz
+691,1,0,65199,9417,1,Sky,Grimstad
+692,1,1,91735,8429,1,Innis,Vilares
+693,1,1,99089,4602,0,Ilse,Baicheng
+694,1,1,21851,1668,0,Lucky,Sarangmeduro
+695,0,0,81382,3845,1,Dalston,Madala
+696,1,0,93719,6076,1,Duncan,Agía Triáda
+697,0,0,43094,8057,1,Shannon,Fátima
+698,0,0,33967,9925,0,Anabella,Thị Trấn Ngan Dừa
+699,1,1,40174,3189,1,Ingamar,Ambositra
+700,0,0,34056,4538,0,Daphna,Agnibilékrou
+701,1,1,58732,9930,1,Fredrick,Roa
+702,1,0,91760,6754,1,Herbie,Gon’ba
+703,0,0,57479,7782,1,Skell,Titay
+704,1,0,48915,5967,0,Rosy,Aban
+705,0,1,64034,5259,0,Faustina,Lumbac
+706,1,1,67077,8892,1,Durant,San Pa Tong
+707,1,1,35756,8502,1,Corbie,Jingling
+708,0,1,49811,8716,0,Krista,Linköping
+709,0,0,54434,9843,1,Berton,Kamigyō-ku
+710,0,0,36067,1277,0,Adorne,Nivnice
+711,0,0,80037,1674,1,Byrom,Stockholm
+712,0,1,68233,1555,0,Barbette,Ngadri
+713,0,1,66266,5174,0,Eleen,Palaihari
+714,1,1,95393,1493,1,Zane,Wyszogród
+715,0,0,64250,9626,1,Nico,Mingcheng
+716,0,1,80357,6302,1,Kipp,Grazhdanka
+717,1,0,65359,6612,1,Lisle,Pasacao
+718,1,0,24930,5470,1,Collin,Bacolod
+719,0,1,41169,6291,1,Marwin,Pandan
+720,0,1,62522,3320,0,Alecia,Thị Trấn Pác Miầu
+721,0,1,79452,9506,0,Gilda,Conceição da Feira
+722,1,0,48167,2303,1,Kerk,Kawerau
+723,0,1,35534,5724,1,Franz,Oslo
+724,1,1,22466,2282,1,Virge,Khamyāb
+725,1,1,64985,4128,1,Elliot,Dammarie-les-Lys
+726,0,1,68843,6950,0,Winona,Ma’an
+727,1,0,57332,7573,0,Davita,Shatian
+728,1,1,86985,3582,1,Ruprecht,Hacıqabul
+729,0,1,42878,2640,1,Konstantine,Tirlyanskiy
+730,1,0,58206,2031,1,Natal,Bayanbaogede
+731,0,0,73221,9382,0,Nananne,Kotablolong
+732,0,1,74617,9812,1,Kerr,El Salitre
+733,1,1,22911,2312,1,Stirling,Shangtian
+734,1,0,81128,4750,1,Nico,Le Mans
+735,1,1,39366,7847,0,Carmina,Qianzhou
+736,0,0,28474,7099,1,Beltran,Palmas Bellas
+737,0,1,35333,3518,1,Lewiss,Mingguang
+738,1,0,48620,5634,0,Kellyann,Glogovac
+739,0,0,38052,6697,1,Derk,Dabai
+740,0,1,89114,3505,1,Charlie,Pandanrejokrajan
+741,0,1,59303,2177,1,Claybourne,Sidorejo
+742,1,1,84684,3741,0,Rhodie,Bieqiao
+743,1,1,49197,5108,0,Carie,Yaodian
+744,0,1,75474,4165,0,Ilka,Liufu
+745,0,0,51259,7774,0,Brianna,At-Bashi
+746,1,0,46639,5781,0,Lane,Kabac
+747,1,0,62597,6978,1,Darwin,Shuguang
+748,1,0,73858,4068,0,Faye,Motala
+749,0,1,40037,8450,0,Elfreda,Paris 19
+750,0,1,87959,1005,1,Bing,Nol
+751,1,0,53941,4079,1,Paddie,Vitória
+752,1,0,47380,3205,0,Brana,Florida
+753,1,1,38460,8226,1,Hakeem,Sterling
+754,0,1,69153,4276,1,Caryl,Dunkerque
+755,0,1,26602,1273,0,Clarita,Batanghari
+756,0,0,48106,2877,1,Quillan,Sathon
+757,0,0,62982,3189,0,Camila,Luobei
+758,1,1,22468,6086,1,Bartholomew,Cimişlia
+759,0,0,54950,1705,0,Ermina,Sakaidechō
+760,1,0,48090,4001,0,Olwen,Głubczyce
+761,1,1,22582,2578,1,Thedrick,Mengjia
+762,1,0,65526,8835,0,Blondell,Maagnas
+763,1,0,99344,2070,1,Kip,Klwów
+764,0,0,55110,9604,1,Kylie,Montpellier
+765,0,0,66064,3462,0,Scarlett,San Antonio
+766,1,0,65839,2514,1,Edouard,Boyuibe
+767,0,1,34123,8607,1,Morgun,Alor Setar
+768,1,1,86456,9665,1,Ned,Bang Klam
+769,0,1,61013,5864,1,Merill,Ganyesa
+770,0,0,66874,8585,1,Amory,Ḩawallī
+771,1,1,57994,7943,0,Rosamund,Lichtenburg
+772,1,0,57456,8108,1,Alwyn,Sakai-nakajima
+773,1,0,70512,3036,0,Germaine,Aguas Verdes
+774,0,1,43058,3149,1,Dagny,Jammāl
+775,1,0,71938,2711,0,Alysa,Itami
+776,0,1,73734,6870,0,Jennifer,Itupiranga
+777,1,1,63714,9821,0,Tracee,Severo-Yeniseyskiy
+778,0,0,48619,5830,1,Wolfgang,Myślenice
+779,1,1,32823,3957,1,Odell,Sulang Tengah
+780,0,0,37198,9663,1,Isidoro,Caomiao
+781,1,1,36271,4796,1,Angeli,Yangi-Nishon Shahri
+782,1,0,97617,8237,1,Alfy,Pitanga
+783,0,0,64070,6187,0,Ebony,Lachowice
+784,1,1,51560,6617,0,Desiree,Gjinkar
+785,0,0,39916,7050,0,Giorgia,Setaka
+786,1,1,77204,5081,1,Godfree,Tétouan
+787,1,0,67310,1012,0,Nedi,Aoji-ri
+788,0,0,54696,9505,1,Bradney,Novo Hamburgo
+789,0,1,20637,5488,1,Garold,Bunog
+790,0,0,95254,1602,0,Darby,Goseong
+791,1,1,59201,1411,0,Nancie,Tomobe
+792,1,0,83061,2535,1,Sauncho,Kościerzyna
+793,0,1,30716,7399,0,Bobbie,Hekou
+794,0,0,47675,1471,1,Dimitry,Al Bāriqīyah
+795,1,1,45058,5573,0,Shalna,Ruchihe
+796,0,0,29915,4582,0,Elmira,Pantaibesar
+797,0,1,42139,9323,1,Merrill,Haguimit
+798,0,0,69591,8626,1,Reinwald,Borabue
+799,0,1,51011,7707,1,Mortie,Washington
+800,0,0,53416,3748,0,Bonni,Sukadami
+801,1,1,47511,1341,0,Aviva,Jiakexi
+802,1,1,84133,4493,1,Freeman,Jinhu
+803,0,1,28523,4772,1,Staford,Panaytayon
+804,0,1,75017,7583,0,Dallas,Roches Noire
+805,1,1,21215,1847,0,Dionne,Peñal
+806,1,0,63523,1965,0,Oliy,Kozhva
+807,0,0,25647,7970,0,Vitoria,Krajansumbermujur
+808,0,1,90370,8729,0,Anny,Mooirivier
+809,0,0,96919,1260,0,Victoria,Chengshan
+810,0,1,73605,7031,1,Armstrong,Corozal
+811,0,0,22236,2768,1,Dukey,Plácido de Castro
+812,0,0,93524,1013,0,Arliene,Rozwadza
+813,1,1,49860,5239,1,Dominique,Ziyang
+814,1,1,97630,5476,1,Teador,Zgornje Pirniče
+815,1,1,84391,9675,0,Lethia,Karanggeneng
+816,0,0,49431,7775,1,Barrie,Xinglong
+817,0,1,41793,2397,1,Levy,Sandefjord
+818,0,1,53154,9591,1,Sandro,Magoúla
+819,1,0,84075,5353,0,Charil,Babak
+820,0,1,96761,1768,0,Helen,Gayam
+821,1,1,40675,5530,1,Tanner,Vrtojba
+822,1,0,21113,1025,1,Pascale,Xianlong
+823,0,0,73538,8675,0,Gavra,Kungälv
+824,0,1,65271,3752,0,Frayda,Praya
+825,1,1,71340,9525,1,Isaac,Limonade
+826,1,0,77183,5552,1,Baxter,Obikiik
+827,1,1,71204,8538,0,Vanda,Vingåker
+828,0,1,43601,9695,1,Reynard,Nanyi
+829,0,0,82749,2159,1,Cozmo,Qinglung
+830,0,0,55490,4706,1,Alvy,Guarapuava
+831,1,0,63963,9384,1,Sheffield,Sambava
+832,0,1,71783,1134,0,Shina,Susoh
+833,0,0,85286,8256,0,Jacquenetta,Longshan
+834,0,1,80944,1464,1,Torre,Bariri
+835,0,0,60964,4813,1,Winnie,Noyal-sur-Vilaine
+836,0,0,55753,7270,1,Dal,Malabang
+837,0,1,29361,6119,0,Annamarie,Buritis
+838,1,1,66254,2850,1,Francesco,Bagnères-de-Bigorre
+839,0,0,54257,2564,1,Otho,Sasykoli
+840,1,1,46368,8079,1,Husain,Artsvaberd
+841,1,0,85367,2624,0,Dyann,Tucupita
+842,1,0,68136,7357,1,Kaine,Longshe
+843,0,0,96893,9244,0,Leoline,Futang
+844,0,1,22780,8735,0,Linda,Antonina
+845,1,0,52800,7202,1,Iosep,Villa Francisca
+846,0,1,48942,9255,0,Anica,San Antonio
+847,1,0,33271,6774,1,Drake,Loakulu
+848,0,0,69520,1407,1,Gustaf,Pamplona/Iruña
+849,1,1,45424,6616,1,Washington,Saint-Cloud
+850,0,0,47061,9410,0,Mureil,Luzern
+851,0,1,75894,3359,0,Billye,Kulpin
+852,0,1,56630,9908,1,Garrett,San Juan de Mata
+853,1,1,38203,7865,0,Antonia,Nashville
+854,1,0,87932,4363,0,Christie,Jaguarari
+855,1,1,87799,9653,1,Eduino,Stare Pole
+856,1,1,87956,6179,0,Hannie,Singkup
+857,1,0,21877,9285,1,Herbert,Topi
+858,0,0,48200,3559,1,Arnuad,Shuishaping
+859,1,1,32901,3329,1,Dugald,Zernograd
+860,1,1,35308,5981,0,Adriena,Girsereng
+861,1,1,65112,3940,1,Andrey,Nicasio
+862,1,0,92860,8490,1,Karlens,Sulęcin
+863,0,1,96129,2493,1,Morie,Siem Reap
+864,1,0,71711,2467,1,Jarid,Cavaillon
+865,0,0,26806,2897,1,Abram,Schieren
+866,1,0,79838,2612,0,Ashleigh,Noisy-le-Grand
+867,0,0,35949,8942,1,Bertie,Shanxia
+868,0,0,69393,9827,0,Dix,Pyetrykaw
+869,1,1,82563,2977,1,Darius,Bang Bua Thong
+870,1,0,69474,1731,0,Austina,Qixing
+871,1,1,42025,5541,1,Ber,Uchkeken
+872,1,0,68474,9419,0,Marleah,Boracéia
+873,1,1,87581,3850,0,Elva,Jambangan
+874,0,1,43071,4046,1,Borden,Minnedosa
+875,1,0,79700,4871,0,Nelie,Raman
+876,0,0,52704,6808,0,Melinde,Sukorejo
+877,0,0,99229,5516,0,Hanny,Jianggu
+878,0,1,45758,1670,1,Murvyn,Jagüey Grande
+879,0,0,29715,9732,1,Chick,Furongqiao
+880,0,1,42246,1089,1,Fee,Selaphum
+881,0,1,38152,9574,0,Rahel,Vary
+882,0,1,22420,8143,1,Eldredge,Amagasaki
+883,0,0,59824,8982,0,Gus,Kebon
+884,0,1,42527,8515,1,Meier,Luopu
+885,1,0,79149,1625,1,Smith,Kuaro
+886,1,0,44226,2737,1,Luigi,Anin
+887,0,0,32745,5717,0,Tommie,Santa Tecla
+888,0,0,48262,3506,1,Roderich,Lisewo
+889,1,1,41239,2143,1,Hort,Tubualá
+890,0,0,23540,8519,0,Ruthanne,Taltal
+891,1,0,59167,4746,1,Neron,Gainesville
+892,1,0,61321,1993,0,Hedwig,Lao Suea Kok
+893,1,1,70190,1457,0,Latia,Maastricht
+894,1,1,96072,3411,0,Tamera,Tengah
+895,1,0,55473,8984,1,Thadeus,Gang
+896,0,0,98455,2218,0,Trisha,Mollas
+897,0,0,57542,1888,1,Enrico,Dajasongai
+898,1,0,74847,6946,0,Melita,Al Karāmah
+899,0,1,27639,8027,1,King,Baytā al Fawqā
+900,0,1,58168,8533,1,Loren,Chonghe
+901,0,0,56290,8561,0,Bessie,Liuche
+902,1,0,91022,3480,0,Dorry,Thị Trấn Hùng Quốc
+903,0,0,23099,2718,1,Nels,Pontalina
+904,1,1,37995,7786,1,Cornell,Lamduan
+905,0,0,73642,2512,0,Elysha,Wang Saphung
+906,0,0,30200,3105,1,Andrus,Kazo
+907,0,1,40848,4142,1,Noby,Cienfuegos
+908,1,1,60446,6338,0,Grier,Jiangwei
+909,1,1,78536,8679,0,Ealasaid,Eindhoven
+910,1,1,27125,1385,1,Erie,Jakubów
+911,1,1,84857,2364,0,Gerianna,Kemiri
+912,1,1,68253,9577,0,Josephina,Nouvelle France
+913,1,0,76054,4926,1,Knox,Sancha
+914,0,0,26159,3069,0,Melli,Awka
+915,1,0,52171,4125,1,Kiley,Shikeng
+916,0,0,50419,4532,0,Sindee,Turija
+917,0,0,35904,1879,1,Travers,Mananara
+918,1,1,37995,4159,0,Frank,Higashine
+919,1,1,41485,3116,1,Lefty,Hammam Sousse
+920,1,1,89174,3571,0,Evangelia,Zhongzuiling
+921,1,0,28847,3920,0,Corabel,Baryshevo
+922,1,0,81295,9333,1,Smith,Queimados
+923,1,1,63175,8912,1,Edouard,Al Manzilah
+924,1,1,86229,1701,0,Elonore,Sibubuhan
+925,0,1,27243,9482,0,Candy,Bima
+926,1,0,82357,6848,1,Giusto,Sendangagung
+927,1,0,50086,6912,0,Ray,Los Cedrales
+928,0,0,87385,3916,0,Marion,Summerland
+929,0,1,71371,3802,0,Madelene,Combita
+930,0,1,24809,1468,1,Nickolaus,Baishui
+931,0,1,65124,4713,0,Moreen,Fengshan
+932,1,1,46186,4934,0,Cordy,Real
+933,1,0,91750,8528,0,Arielle,Nishishinminato
+934,1,0,77712,2310,1,Currey,Łubowo
+935,1,0,73801,4913,0,Lurleen,Korniyivka
+936,0,1,81726,4789,1,Bronny,Teresa
+937,1,0,48322,4846,0,Susan,Bagong Barrio
+938,1,0,88338,3549,0,Violante,Rancagadog
+939,0,0,47485,8205,1,Yancey,Yuecheng
+940,1,1,33117,1184,0,Judi,Zhanping
+941,1,0,39980,2508,0,Ambur,General Lavalle
+942,1,0,62791,5725,0,Micheline,Birmingham
+943,1,0,84241,5100,0,Leticia,Ar Rawnah
+944,1,0,46265,2865,1,Frederich,Mudian
+945,1,0,26241,2893,0,Allyce,5 de Mayo
+946,1,0,51518,9936,0,Leontyne,Poja
+947,1,0,93215,9910,0,Leia,Jingmen
+948,1,0,87438,8186,0,Manda,San Vicente
+949,0,1,81676,1705,0,Theresa,Wissembourg
+950,1,1,63706,9533,0,Lorelei,Donabate
+951,1,0,86205,8947,0,Aurel,Danilov
+952,0,1,80249,6359,1,Francisco,Maroua
+953,1,1,86825,7499,0,Gael,Lacolle
+954,0,0,60840,7030,0,Lilla,Changtang
+955,1,1,82932,3072,1,Clemens,Tiron
+956,1,1,35572,4765,1,Jethro,Krasnyy Oktyabr’
+957,0,0,89872,7096,1,Taddeo,Świeradów-Zdrój
+958,1,1,22445,1127,0,Gail,Yezhu
+959,1,0,45567,9853,0,Marla,Tayginka
+960,0,1,36551,9111,0,Lanni,Wārāh
+961,1,0,94063,4288,1,Harvey,Mikun’
+962,0,0,55479,6346,0,Tami,Unden
+963,0,1,84591,2633,1,Wesley,Ust’-Labinsk
+964,0,0,23150,4009,1,Alwin,Rrapë
+965,1,1,58250,6633,1,Valentine,Gaoliang
+966,0,0,32870,5873,1,Franciskus,Saint-Maurice
+967,1,0,77780,8175,0,Perle,São João das Lampas
+968,1,1,31427,4195,0,Bonnee,Stoszowice
+969,0,0,73181,7180,1,Ignazio,Hongxi
+970,0,1,27097,9214,0,Tania,Yingzhou
+971,0,0,68440,1721,0,Faina,Houston
+972,1,0,36743,6740,0,Shelagh,Seattle
+973,1,1,28667,1788,1,Bradford,Jingyang
+974,0,1,42356,6372,0,Bab,Otoka
+975,1,1,80477,5854,0,Georgina,Naprawa
+976,0,0,76440,7188,0,Dulcy,Megalochórion
+977,1,0,30767,5214,0,Xylina,Lyubech
+978,0,1,83177,4255,1,Archaimbaud,Houjia
+979,1,1,28419,1179,1,Roland,Guangang
+980,0,0,64937,6401,0,Ginger,Chuquitira
+981,1,1,22408,5229,1,Mick,Fatuhilik
+982,0,1,48081,8088,0,Brynna,Lom Sak
+983,1,0,48884,3788,1,Innis,Vylkove
+984,1,0,74489,4589,0,Guillemette,Osoyoos
+985,0,0,32069,2783,0,Latrena,Trucuk
+986,1,0,80953,5830,1,Lindon,Asadābād
+987,1,0,32769,6016,1,Brnaba,Vigan
+988,1,1,67857,5285,0,Meggi,Kasese
+989,0,0,27618,7510,0,Chrysler,Kimhae
+990,1,1,56770,6033,0,Anitra,Bogorejo
+991,1,1,83292,7391,0,Nanette,Pedreira
+992,0,0,80890,5555,0,Toinette,Dobczyce
+993,1,0,68153,2776,0,Isa,Bayeux
+994,0,1,38379,7393,0,Karina,Moshkovo
+995,0,0,41223,8006,1,Pip,Satte
+996,0,0,64761,2598,0,Brittne,Salaza
+997,1,0,65544,6843,0,Kalinda,Danderyd
+998,1,0,98912,1903,0,Danny,Nowa Ruda
+999,0,1,72963,8471,1,Kleon,Zhangguanying
+1000,1,0,38327,6073,1,Ludovico,Canghou
+1001,0,0,76181,3101,0,Melisandra,Shenavan
+1002,0,0,93790,5426,0,Idaline,Shubenka
+1003,1,1,64584,7448,0,Risa,Chowṉêy
+1004,1,0,30948,4791,0,Oliy,Pakxong
+1005,0,0,99560,8735,1,Gerhard,Ardazubre
+1006,1,1,35793,1622,1,Danie,Moñitos
+1007,1,0,35761,3858,1,Orin,Marte
+1008,0,1,57634,9299,1,Hebert,Nomhon
+1009,0,0,56487,7895,1,Reuven,Kauhava
+1010,1,1,66237,3108,1,Bertram,Daixi
+1011,1,1,43196,3902,0,Anne-marie,Novyye Kuz’minki
+1012,1,0,21654,4749,0,Genevieve,Grabów
+1013,1,0,78921,8933,1,Adler,Wujiayao
+1014,1,0,86224,2855,1,Stanton,Créteil
+1015,0,0,20281,7559,0,Mathilde,Ustupo
+1016,1,1,94894,7771,0,Sharlene,Tuquan
+1017,1,0,34897,9779,1,Wally,Kamenka
+1018,1,0,87336,6857,0,Clementina,Negotino
+1019,0,0,92017,1020,1,Adriano,Hengli
+1020,0,1,27729,3941,1,Thaddus,Kigoma
+1021,1,1,73356,3672,1,Ethelred,Kunashak
+1022,0,1,74718,6677,1,Dorey,Voloka
+1023,0,1,38882,6907,1,Jeffry,Suklayin
+1024,1,1,40793,9483,1,Guntar,Tange Zhen
+1025,0,0,40678,3971,0,Roselle,Quilo-quilo
+1026,0,1,31169,5080,1,Merwyn,Puteaux
+1027,1,1,81237,6242,0,Clarissa,Trubchevsk
+1028,0,1,80429,9241,1,Torey,Xiaochengzi
+1029,1,1,56653,1950,0,Maurizia,Rāvar
+1030,1,0,74836,4337,1,Vincents,Krajan Craken
+1031,1,1,52270,8259,0,Geraldine,Frederiksberg
+1032,1,0,35505,4403,1,Jackie,Taiping
+1033,1,0,97815,6092,1,Ches,Gualeguaychú
+1034,0,0,52007,7365,0,Wilie,Mississauga
+1035,0,0,38958,3915,1,Hadley,Ipoh
+1036,0,1,97285,7437,1,Boyce,Qianfoling
+1037,0,0,32284,7150,0,Victoria,Sovetskiy
+1038,1,0,94798,7991,0,Kesley,Igbeti
+1039,1,1,79677,7560,0,Kori,Bohus
+1040,0,0,29555,6893,1,Evelin,Arcachon
+1041,0,0,96778,6317,1,Burtie,Pŭrvomaytsi
+1042,1,0,93184,8919,1,Kennie,Kamalaputi
+1043,1,0,33570,8749,0,Malissia,Hrvatini
+1044,0,1,77463,4602,1,Briant,Ganja
+1045,0,1,83421,7241,1,Bendicty,Hongde
+1046,0,0,20419,2806,0,Sibbie,Panitian
+1047,1,0,72557,1404,1,Lucius,Maralal
+1048,0,1,26636,3404,0,Arleyne,Paradahan
+1049,0,0,82700,1314,0,Arleen,Kanzaki
+1050,0,0,64102,7507,0,Katalin,Shangrao
+1051,0,0,36877,3831,1,Andreas,Bojen Kulon
+1052,1,1,99483,2588,0,Malorie,Bouça
+1053,1,1,75570,7949,0,Arleyne,Jolo
+1054,1,0,22163,8264,0,Jeannie,Aoyang
+1055,0,0,60472,2236,1,Godart,Kafachan
+1056,0,1,65235,2628,0,Olympe,Ljungby
+1057,0,0,85234,4306,1,Mile,Séguéla
+1058,1,0,61018,6666,0,Dion,Enskede
+1059,1,1,32557,8151,1,Sheppard,Gakem
+1060,0,0,43547,7312,0,Larissa,Mbaké
+1061,1,1,88692,5301,1,Den,São José dos Pinhais
+1062,0,0,75033,4988,0,Birgitta,Sidoger Lebak
+1063,0,1,59608,7876,0,Natalina,‘Alīābād-e Katūl
+1064,0,0,38994,3267,1,Cheston,Dongjiao
+1065,0,0,79315,5377,1,Leupold,Atyrá
+1066,0,1,61089,4843,1,Andrej,Noen Maprang
+1067,1,1,28773,6548,0,Rubina,Trinity
+1068,0,1,36704,2193,0,Gloriane,Akita Shi
+1069,1,1,57708,9865,1,Krisha,Phu Loc
+1070,0,0,97795,4888,0,Sula,Žďár
+1071,1,0,81419,2779,1,Buddie,Rostov-na-Donu
+1072,0,1,29925,1276,0,Celinda,Rubiataba
+1073,1,0,91378,2305,0,Joye,Xinji
+1074,0,0,38314,4377,1,Emmanuel,Basqal
+1075,0,0,25103,9296,1,Broddy,Obršani
+1076,0,0,80965,7108,0,Sheilah,Keda
+1077,0,1,40289,5470,0,Wren,Geita
+1078,0,1,67171,9254,1,Caz,Bradag
+1079,0,1,96537,2730,1,Nappy,Lluka e Eperme
+1080,1,0,22692,9534,0,Joeann,Ḩuraytān
+1081,1,1,71850,5197,0,Erminia,Bol’shoye Selo
+1082,0,1,96760,4418,0,Darcy,Huangqi
+1083,0,1,54082,2724,1,Findley,Longhuashan
+1084,1,1,77102,9434,0,Jandy,Santa Catarina Ixtahuacán
+1085,0,1,61459,1952,1,Angie,Independencia
+1086,1,0,97609,9342,0,Mella,Phan Thong
+1087,1,1,22553,3052,0,Idaline,Aghsu
+1088,0,1,42275,7227,1,Siegfried,Sabandia
+1089,0,0,37593,9670,0,Milli,Jing’an
+1090,0,1,79194,2381,1,Darn,Lubochnia
+1091,0,1,37001,2118,0,Linnea,Olhos de Água
+1092,1,0,50545,2119,0,Ginelle,Pataias
+1093,1,0,70412,4088,1,Evyn,Umingan
+1094,1,1,81504,3382,0,Almira,Triesenberg
+1095,1,1,72615,6765,0,Bonita,Mirecourt
+1096,0,0,29264,1491,0,Bibby,Omutninsk
+1097,1,0,57261,6930,0,Martie,Vilarinho da Castanheira
+1098,1,0,92545,9322,0,Yetty,Cabanaconde
+1099,0,0,92882,5272,0,Annalise,Kireyevsk
+1100,0,0,56856,9422,0,Kirsten,Xinhui
+1101,0,1,39521,7871,0,Barby,Bojong
+1102,1,0,38375,3900,0,Melantha,Yangce
+1103,1,0,70184,9068,0,Loni,Gaoqiao
+1104,0,0,77198,2906,0,Darline,Batiovo
+1105,0,1,78091,2284,1,Halsy,Zhonghouhe
+1106,1,0,69392,3366,1,Der,Buenos Aires
+1107,1,0,84626,3988,0,Goldi,El Capulin
+1108,1,0,81516,9283,0,Myrtie,Fulnek
+1109,0,1,59640,2044,0,Dorothy,Coripata
+1110,1,0,55343,4689,1,Spence,Weiyang
+1111,1,0,49252,1763,1,Oswald,Bāsawul
+1112,0,1,79643,8382,1,Quent,Wongka
+1113,0,1,57466,1319,0,Audre,G’uzor
+1114,0,0,95983,4813,1,Rowen,Żabbar
+1115,1,0,38093,7622,1,Marc,Galis
+1116,1,0,36312,9832,1,Rollo,Aioi
+1117,0,0,64255,3006,1,Bay,Nantang
+1118,0,1,83750,6885,0,Xylina,Rappang
+1119,1,0,36866,3827,0,Rosana,Wolfville
+1120,0,1,88818,7038,1,Antonius,Shanggan
+1121,0,0,52797,9025,1,Shanan,Phu Luang
+1122,1,1,34002,7852,0,Chere,Bandarbeyla
+1123,1,1,36407,6409,1,Artemus,Huancheng
+1124,0,1,81450,4504,1,Carter,Wyszków
+1125,0,0,52971,2700,0,Lilly,Zürich
+1126,0,0,94680,1459,0,Wileen,Puncakwangi
+1127,0,1,76694,5079,0,Marissa,Oslo
+1128,0,0,43997,6995,1,Miner,Cikaduen
+1129,1,0,62180,4623,0,Brittney,Kafr Dān
+1130,0,1,92439,7085,0,Willyt,Shewopo
+1131,1,1,37942,9046,0,Eleonore,Pochinki
+1132,1,1,64543,1306,1,Hirsch,Tiantai Chengguanzhen
+1133,0,0,99600,5424,0,Merlina,Bagong Sikat
+1134,0,0,86820,2613,1,Baudoin,Jiyukou
+1135,1,1,74269,8135,0,Georgena,Pedro García
+1136,0,0,59162,9412,1,Buddy,Wangcao
+1137,1,1,74849,8304,1,Marcellus,Ashkāsham
+1138,0,1,95434,3197,0,Marni,Getung
+1139,0,1,33308,9336,0,Marys,Dadong
+1140,0,1,72050,8397,0,Lezlie,Łaskarzew
+1141,0,0,34561,9646,1,Anatollo,Blantyre
+1142,1,0,68109,2821,1,Simmonds,Garzón
+1143,0,0,86521,2310,0,Cindy,San Luis
+1144,1,1,72437,2808,0,Nertie,Lautaro
+1145,0,1,77084,4540,0,Brenda,Krzyżanowice
+1146,0,0,36636,3446,1,Chaunce,Port-aux-Français
+1147,0,1,51724,3587,1,Arlin,Khomutovo
+1148,0,1,76249,9484,1,Kenny,Ramon Magsaysay
+1149,0,0,88257,5126,0,Sascha,Taranovskoye
+1150,0,0,82832,1733,1,Skell,Ozëry
+1151,0,0,44636,2700,1,Dallon,Evansville
+1152,1,1,66300,8090,0,Gisela,Malekān
+1153,0,1,68389,8164,0,Cristie,Pilar
+1154,1,0,84798,7669,0,Cassy,Vessada
+1155,1,0,43893,9638,1,Warden,Shenavan
+1156,0,1,66306,8671,1,Caesar,Kadubincarung
+1157,1,0,43172,8792,1,Larry,Chuanpu
+1158,0,0,76251,9410,0,Kiley,Tharyarwady
+1159,0,1,54552,2692,0,Harri,Viñales
+1160,1,1,57044,8473,1,Inness,Bayang
+1161,1,1,76564,7264,1,Hadleigh,Trang
+1162,0,1,27429,2499,0,Consolata,Ponta do Sol
+1163,1,0,57451,6599,1,Benn,San Andrés
+1164,0,1,71955,3423,0,Diahann,Kuala Lumpur
+1165,1,1,20331,9661,0,Wini,Senggapi
+1166,1,0,88740,3981,0,Naomi,Chanthaburi
+1167,1,0,99623,7481,0,Betsey,Norberg
+1168,0,1,79152,9468,0,Gypsy,Pizhanka
+1169,1,0,28907,4527,1,Alexio,Jinbo
+1170,1,1,36501,5907,1,Eric,Nyagan
+1171,1,1,34683,1039,1,Jerrie,Psevdás
+1172,1,0,59324,2562,1,Udale,Berbérati
+1173,0,0,82041,9838,1,Godfree,Patria
+1174,0,0,24316,7174,1,Edsel,Al Ḩāḑir
+1175,1,0,31991,2278,1,Corey,Thị Trấn Cao Lộc
+1176,1,1,89282,2555,0,Lanny,Enhe Hada
+1177,1,1,40589,3713,1,Elsworth,Suban
+1178,0,1,61185,6910,0,Hildagarde,Banggel
+1179,0,1,57906,9211,0,Calla,Beylagan
+1180,1,0,53971,9121,0,Cassi,Uenohara
+1181,0,0,80789,6441,1,Bevin,Labuhansumbawa
+1182,1,1,29192,3291,1,Sander,Jingkou
+1183,1,1,89274,3941,1,Ellis,Luojiang
+1184,1,1,90580,9236,1,Matthieu,Ryazhsk
+1185,0,1,39993,6629,0,Renate,Haibara
+1186,0,1,67590,1426,0,Tybi,Chenyang
+1187,1,1,69867,2491,1,Finlay,Youxi
+1188,0,1,38889,1724,0,Gerrie,Huesca
+1189,0,1,74976,3967,0,Cosetta,Baikui
+1190,0,0,27432,2348,0,Beryl,Vila Nova Sintra
+1191,0,0,44454,2818,0,Vina,Sundbyberg
+1192,1,0,40706,7799,1,Cobby,Akouda
+1193,0,1,84293,4349,0,Yolanda,Sollefteå
+1194,1,0,69471,1688,0,Marjie,Shuangbaiyang
+1195,0,0,86635,5131,1,Panchito,El Corozo
+1196,0,1,47421,4999,0,Ardra,Koryčany
+1197,0,0,90779,7580,0,Blaire,Vaasa
+1198,0,1,33515,8103,1,Othello,Lahuaytambo
+1199,0,0,64930,2472,1,Bartholomew,Beausejour
+1200,0,1,98843,9402,1,Buddy,Qal‘at al Andalus
+1201,1,0,50846,3365,0,Claretta,Pétionville
+1202,0,0,96820,6512,1,Tanner,Sundsvall
+1203,0,0,93961,3265,0,Tarah,Chaodi
+1204,1,0,30535,9918,0,Cary,Bagé
+1205,1,1,43306,7773,1,Kendrick,Vilarinho
+1206,0,1,67708,2743,1,Titos,Jawf al Maqbābah
+1207,1,1,76747,3070,1,Thorndike,Okrouhlice
+1208,0,0,31022,7383,1,Dionysus,Urrao
+1209,0,0,59271,8046,0,Dinnie,Lukou
+1210,1,0,81901,6862,0,Mary,Nanxinxiang
+1211,0,0,97190,3339,0,Roxanne,Xiangshan
+1212,1,1,85365,7267,0,Janean,Ol Kalou
+1213,0,1,24156,7401,0,Mirilla,Dasheng
+1214,1,1,31937,3454,1,Ronny,Leonárisso
+1215,1,1,34535,7051,1,Dorian,Bromma
+1216,0,0,61754,6898,0,Thomasa,Rejowinangun
+1217,0,1,50727,4868,1,Elia,Sơn Trà
+1218,0,1,91390,3178,1,Berk,Pasadena
+1219,0,0,38325,3809,1,Prent,Jundian
+1220,0,0,37716,7716,0,Rosalynd,Kedungsumurkrajan
+1221,1,1,87478,8534,1,Chrisy,Penhascoso
+1222,1,0,68526,1410,1,Christoffer,Wangqinzhuang
+1223,1,0,61513,6017,0,Celestia,Houba
+1224,0,1,36093,9361,1,Wilfred,Ojos de Agua
+1225,1,1,21023,6417,0,Thia,Avignon
+1226,1,1,98656,4193,0,Leisha,Santa Cruz de Yojoa
+1227,0,0,58729,2399,1,Dore,Stari Lec
+1228,0,1,90748,6729,0,Oneida,Tatebayashi
+1229,1,1,60543,3694,1,Hakim,Otutara
+1230,0,0,90189,2841,0,Kara-lynn,Kentville
+1231,1,0,98565,6360,1,Welby,Širvintos
+1232,1,1,38939,2460,1,Moises,Skolkovo
+1233,0,1,35340,4551,1,Garreth,Kladovo
+1234,0,1,85331,6834,1,Yanaton,Kaduketug
+1235,1,1,64223,1820,0,Dulciana,Shengping
+1236,1,0,91594,4945,1,Cleavland,Kapan
+1237,0,0,42344,4201,1,Odey,Ungaran
+1238,1,1,81355,9755,1,Gonzalo,Vorob’yovo
+1239,1,1,40050,8006,1,Allayne,Chengxiang
+1240,0,1,82397,4345,0,Hailee,Los Palacios
+1241,1,1,45750,5841,1,Abelard,Schirmeck
+1242,0,0,46097,3747,0,Phaedra,Świdnica
+1243,1,1,51646,5216,0,Kristan,Töreboda
+1244,0,1,83409,1935,0,Miranda,Maglajani
+1245,1,1,65170,9507,0,Ginelle,Novosheshminsk
+1246,0,1,69742,2064,1,Baily,Bazi
+1247,1,1,84042,4580,1,Willi,São Gonçalo do Amarante
+1248,0,0,23214,1346,1,Darin,Jayanca
+1249,0,0,93044,9228,1,Torr,San Vicente
+1250,0,1,98175,9824,0,Corny,Banjar Laing
+1251,0,1,97580,5519,0,Rosalyn,Xiashitai
+1252,0,0,22387,4594,1,Lennard,Cabudare
+1253,1,1,86906,6965,1,Baryram,Maliuzui
+1254,1,1,55982,7767,1,Felix,Huanglin
+1255,1,0,31694,1696,0,Darsie,Langob
+1256,0,1,98125,3403,1,Farlee,Janeng
+1257,1,1,53089,7206,1,Cyrille,Araucária
+1258,1,1,59115,4290,1,Roley,Kunjāh
+1259,1,0,87176,3874,0,Cally,Kladanj
+1260,0,0,76606,1579,1,Mohandas,Dasheng
+1261,1,1,33141,4518,0,Elene,Wangshi
+1262,1,1,94853,9354,1,Khalil,Koson Shahri
+1263,1,1,27176,1140,1,Archibald,Öjebyn
+1264,0,1,66194,4244,1,Gasparo,Wisznice
+1265,1,0,40274,1516,0,Kordula,Pignon
+1266,1,0,51203,6170,0,Marley,Cikananga
+1267,0,1,29712,3544,0,Glenda,Kubangsari
+1268,1,1,60639,3333,1,Ralf,Desē
+1269,1,1,71132,9065,0,Loraine,Muyaka
+1270,0,1,37465,6589,1,Norbie,Granada
+1271,0,0,24311,6653,1,Bertie,Chase
+1272,1,0,39348,2992,1,Sylas,Na Kae
+1273,1,1,41180,3045,1,Giffie,Orléans
+1274,0,1,56418,7911,1,Maynord,Žacléř
+1275,1,0,42557,4429,0,Matilde,Pangkalan
+1276,1,0,82898,4896,1,Weston,Sovetsk
+1277,0,0,44682,4994,0,Brena,Yläne
+1278,1,0,51816,4069,1,Man,Rybí
+1279,1,1,72859,2699,0,Marje,Sunduan
+1280,0,0,52099,1744,1,Noak,Non Suwan
+1281,1,0,58762,8877,1,Stevie,Bayombong
+1282,1,1,69506,7345,0,Trina,Nanjiao
+1283,0,0,45196,3136,0,Yetta,Baishi
+1284,1,1,71728,1259,1,Ives,Głowno
+1285,1,1,73137,6112,0,Jill,Orleans
+1286,0,0,39582,7628,0,Annmaria,Milano
+1287,1,1,92036,5974,1,El,Novyy Svit
+1288,0,1,76829,3198,0,Isabeau,Pyatovskiy
+1289,0,1,24907,7463,0,Giustina,Wulan
+1290,1,1,30679,6892,1,Say,Santo Isidro
+1291,1,1,31680,5537,1,Friedrick,Tangalla
+1292,1,1,74476,4417,0,Catie,Xinji
+1293,0,1,34038,9279,0,Karie,Progreso
+1294,1,1,59527,1936,1,Auberon,Seto
+1295,0,1,25865,1926,0,Ingaborg,Tipaz
+1296,1,0,96441,1129,1,Roderick,Rosario
+1297,1,0,49555,3744,1,Sebastiano,Carnaxide
+1298,1,1,78847,9216,0,Benetta,Mapaniqui
+1299,0,1,24297,9143,0,Gabrila,Rancho Nuevo
+1300,1,0,46323,9183,1,Keefer,Maythalūn
+1301,1,1,74147,9730,0,Kendra,Ban Houayxay
+1302,0,0,34395,7499,1,Leonerd,Ростуша
+1303,0,1,77997,8157,1,Timothee,Santiago del Estero
+1304,0,1,33555,4829,0,Wally,Udon Thani
+1305,1,1,72779,7526,0,Aloisia,Changning
+1306,0,0,93033,5442,1,Robb,Krajan Selatan
+1307,0,1,43401,6406,0,Siobhan,Colomi
+1308,0,0,82163,5938,0,Jorry,Sabanagrande
+1309,0,0,34151,3425,1,Irvine,Bintang
+1310,1,0,69614,5903,0,Lari,Urrao
+1311,0,1,28555,2748,0,Roobbie,Bat Khela
+1312,0,1,78366,1188,1,Trip,Saint Louis
+1313,0,1,87712,1719,1,Albie,Doom
+1314,1,1,34880,7149,1,Tedmund,Xinpeicun
+1315,0,1,63169,7432,0,Nananne,Cigeulis
+1316,0,0,30849,7720,1,Gifford,Lagoa da Prata
+1317,1,1,33960,4950,1,Justus,Tilburg
+1318,0,1,45701,7863,0,Coraline,Străşeni
+1319,0,1,80647,9178,0,Josselyn,Xinhe
+1320,0,0,73712,2212,1,Samuele,Martin
+1321,1,0,59988,3742,1,Bat,Ålesund
+1322,0,0,54990,6989,1,Thorvald,Kezilei
+1323,1,1,73566,9373,0,Danette,Coroico
+1324,0,0,43974,1890,1,Granville,Kiruna
+1325,0,0,84664,8301,0,Noella,Chenghe
+1326,1,1,94144,9478,1,Karim,Hongcheng
+1327,1,0,99368,8124,1,Jeffrey,Gwanda
+1328,1,1,53241,8410,0,Stephannie,Donostia-San Sebastian
+1329,1,1,62139,9086,1,Mayne,Liushui
+1330,1,0,38229,9439,0,Nana,Marston
+1331,1,1,66607,2547,1,Giovanni,Bambakashat
+1332,1,0,28507,4064,1,Stewart,Annan
+1333,0,1,24914,7026,0,Yoshiko,Mahates
+1334,1,0,32366,2119,1,Bronnie,New Cebu
+1335,1,0,55506,1178,0,Aili,Thị Trấn Tủa Chùa
+1336,0,0,78129,8146,0,Aline,Gândara
+1337,1,1,68149,6985,0,Patty,Gobernador Costa
+1338,1,1,78186,9499,1,Anders,La Molina
+1339,0,1,79768,9669,0,Matilda,Longquan
+1340,0,1,52645,5402,1,Lyman,Agbannawag
+1341,1,1,44677,2247,1,Mateo,Butuan
+1342,1,0,89886,9917,1,Faulkner,Koktal
+1343,0,0,45325,2859,0,Polly,Haokou
+1344,1,1,87665,4778,0,Ora,Parang
+1345,1,0,24740,2657,1,Noam,Dalai
+1346,0,0,63321,8255,1,Jarid,Seidu
+1347,1,1,93780,7569,0,Lucina,Shuiyuesi
+1348,1,0,55355,2113,1,Erasmus,Baryshevo
+1349,0,1,83337,1849,1,Osmond,Kumla
+1350,1,1,27227,3858,0,Franni,Wanfa
+1351,1,0,48833,8787,1,Adan,Noyon
+1352,0,0,99493,7036,1,Isador,Mingzhong
+1353,0,1,98943,2956,1,Smitty,Svetlograd
+1354,0,0,26593,7187,0,Brandea,Sangat
+1355,1,0,73060,8117,1,Kile,Dobrzeń Wielki
+1356,0,0,50167,3448,0,Agnesse,Girey
+1357,1,1,60918,6528,0,Tansy,Shinpokh
+1358,0,0,75877,2656,0,Estella,Bilje
+1359,0,0,43394,4466,0,Eveline,Alak
+1360,0,0,98613,2818,1,Fredek,Fufang
+1361,1,0,66547,1805,0,Katharine,Norrköping
+1362,0,0,89015,4878,1,Tibold,Casal do Conde
+1363,0,1,58184,5595,1,Wylie,Säffle
+1364,1,0,60587,7324,1,Glenden,Diekirch
+1365,0,1,55558,3929,0,Minni,Pimbalayan
+1366,0,1,47433,7600,0,Carlotta,Limbi
+1367,0,0,92278,5241,0,Charlotta,Pyrgetós
+1368,0,1,99210,8828,0,Britni,New York City
+1369,1,0,26821,2734,1,Bram,Liuji
+1370,1,1,29532,4203,0,Devan,Lubbock
+1371,0,0,45975,8957,0,Chris,Santo Ângelo
+1372,0,0,52454,4450,0,Sara,Kuruman
+1373,0,0,74488,8369,0,Meggie,Haarlem
+1374,0,1,80139,9449,0,Krista,Wierzchosławice
+1375,1,1,90398,1853,0,Fania,Xiaotang
+1376,1,1,32196,9552,0,Kirsteni,Udënisht
+1377,1,0,80656,2250,0,Consuela,Basīrpur
+1378,0,0,51364,8415,1,Carlin,Zhongtai
+1379,0,0,99998,3435,0,Kaylyn,Tuba
+1380,0,0,67222,7327,0,Ann-marie,Busilak
+1381,1,1,98015,4318,1,Troy,Shulan
+1382,0,1,80562,2840,1,Jock,Lilla Edet
+1383,0,1,21130,2738,1,Aylmer,Dāngām
+1384,0,0,70486,4860,1,Mathias,Rybno
+1385,0,0,33029,3257,1,Elijah,Debrecen
+1386,0,0,86098,4123,0,Bunni,Feodosiya
+1387,0,1,83021,7714,0,Alys,Tonosí
+1388,1,1,70371,2850,0,Ann-marie,Batgrām
+1389,0,0,34908,6501,1,Ario,Jixi
+1390,0,0,34276,3908,1,Jereme,Nogent-sur-Marne
+1391,0,1,95119,6486,1,Normand,Hà Tiên
+1392,0,0,26432,6623,0,Josephina,Ashiya
+1393,0,1,64998,6450,0,Imojean,Kluki
+1394,0,0,60812,3810,0,Camilla,Cértegui
+1395,1,0,65602,3100,1,Ailbert,Igpit
+1396,0,1,82953,8963,0,Minnnie,Primero de Mayo
+1397,1,0,63116,2522,1,Barri,Songhae
+1398,0,1,97174,3206,0,Corina,Butel
+1399,0,1,92150,6354,1,Natal,Kolodeznyy
+1400,1,0,77891,8997,0,Sapphire,Xihe
+1401,0,0,93711,4616,1,Leroy,Bantilan
+1402,1,0,78643,3972,0,Esmaria,Liulang
+1403,0,1,94097,1578,0,Brooks,Moulins
+1404,0,1,58502,4436,0,Jilli,Tambulig
+1405,1,0,64379,8571,1,Iosep,Hörby
+1406,1,1,64752,9320,1,Aymer,Rudniki
+1407,1,1,77775,3038,1,Derward,Los Frentones
+1408,0,0,30488,9824,0,Glynda,Gongju
+1409,1,0,88063,5482,1,Gradey,Emiliano Zapata
+1410,0,1,91434,4815,1,Price,Xingtan
+1411,1,1,81753,8952,1,Samuel,Toila
+1412,1,0,48128,6690,0,Florencia,Burrel
+1413,1,1,95763,8671,1,Aguistin,Carvoeira
+1414,1,1,30341,4981,0,Christie,Voskop
+1415,1,1,97079,1572,0,Bianca,Topory
+1416,0,0,24779,3804,0,Danell,Kohtla-Järve
+1417,1,0,63515,8412,0,Junie,Yong’an
+1418,0,0,63972,2362,1,Amos,Verkhnyaya Tura
+1419,1,0,57427,8946,0,Marybeth,Jingu
+1420,0,0,46879,8616,0,Celestina,Wenfu
+1421,0,1,95510,3969,0,Gay,Dzięgielów
+1422,0,0,43646,7309,1,Jule,Gweedore
+1423,0,1,20230,2865,1,Giff,Martingança
+1424,1,0,27104,8724,0,Faustina,Ambatolampy
+1425,1,1,23675,4361,0,Audra,Mamponteng
+1426,1,0,26735,7909,1,Fidelio,Krathum Baen
+1427,1,1,68146,3691,0,Winna,Černovice
+1428,1,0,50357,6643,0,Andie,Sinamaica
+1429,0,0,25478,7106,0,Allyce,Beyla
+1430,0,1,42619,8480,1,Arnoldo,Asarum
+1431,1,1,23591,1093,0,Harli,Shanglu
+1432,0,1,38687,2924,0,Leanna,Silago
+1433,0,0,76214,2910,1,Free,Aygek
+1434,1,1,80636,6523,0,Blondell,Guantian
+1435,0,0,82586,7583,1,Jess,Escazú
+1436,0,0,83933,5605,0,Lenee,Agua Fría
+1437,1,0,37449,8995,0,Clair,Gongnong
+1438,1,1,21584,6956,1,Lucian,Paris 10
+1439,1,0,76636,9237,1,Mendy,Dapawan
+1440,0,0,27215,8224,0,Melba,Cajueiro
+1441,0,1,72598,4688,1,Skipp,Gospić
+1442,1,1,51992,7916,0,Winnie,Anningqu
+1443,0,0,47500,3094,1,Orren,Aozai
+1444,1,1,99916,2581,1,Colman,Aulnay-sous-Bois
+1445,1,0,40274,5640,1,Chariot,Kowingir
+1446,0,0,35242,2144,1,Culver,Jetak
+1447,0,1,71033,5893,0,Myranda,Gyigang
+1448,1,1,76550,2866,1,Gilberto,Hino
+1449,1,1,86380,2463,1,Tabb,Nuevo Amanecer
+1450,1,1,61938,2959,0,Bryn,Tijucas
+1451,0,1,28930,1357,1,Wernher,Caçapava
+1452,1,1,90797,8481,1,Jasen,Yangon
+1453,1,1,58513,7939,0,Marne,Decatur
+1454,1,1,91438,3836,1,Terri,Bieniewice
+1455,0,0,44569,2798,1,Dare,Strohonivka
+1456,1,1,84239,4280,1,Kristo,Marília
+1457,0,1,86562,8179,0,Ezmeralda,Wissous
+1458,1,0,92792,1836,0,Benita,Daegu
+1459,0,1,96464,5643,0,Riki,Santa Rosa
+1460,1,1,63270,2728,1,Gayelord,Bohdalov
+1461,1,0,46288,2612,1,David,P’asanauri
+1462,0,1,86753,9131,1,Nathan,Marseille
+1463,0,1,46497,4517,1,Mayne,Darungan
+1464,1,0,97884,3390,1,Noble,Angono
+1465,1,1,36288,2203,1,Kaine,Shangzhang
+1466,1,0,51702,4558,1,Gregg,Gonghe
+1467,1,1,50451,5001,1,Traver,‘Izrā
+1468,1,0,71463,1868,1,Alard,Portachuelo
+1469,0,0,51468,9007,0,Stefania,Mukayrās
+1470,1,1,59772,4984,1,Gerhardt,Bergen
+1471,1,0,20940,4938,0,Annnora,Sihanoukville
+1472,1,1,88254,3902,1,Tades,Motala
+1473,1,0,64250,6538,0,Binnie,Yangzi Jianglu
+1474,1,0,88043,2411,1,Brian,Baisha
+1475,0,1,87057,8491,0,Martynne,Taluksangay
+1476,1,1,98234,9749,0,Alverta,Vinhais
+1477,0,1,50584,8359,0,Val,Крива Паланка
+1478,1,0,23838,7255,1,Todd,Bašaid
+1479,0,1,24296,2825,1,Mychal,El Cantón de San Pablo
+1480,1,0,77719,9155,0,Regine,Webuye
+1481,1,1,80400,8775,1,Far,Xiapu
+1482,0,0,69375,4139,0,Lucina,Rosais
+1483,1,0,45721,3305,1,Zacharia,Thị Trấn Ngải Giao
+1484,0,1,65783,5200,0,Sianna,Goiânia
+1485,0,1,35348,1116,1,Phip,Caluire-et-Cuire
+1486,1,1,36690,7876,1,Arri,Oelaba
+1487,1,0,30308,3499,0,Lenette,Tyringe
+1488,1,0,40575,4683,1,Carl,Sulkava
+1489,0,0,95099,4293,1,Otto,Tokorozawa
+1490,1,1,83413,6694,0,Goldina,Trelew
+1491,0,0,39956,2421,1,Ruttger,Bantiran
+1492,1,1,64542,4587,1,Fairfax,Dadiharja
+1493,1,1,59074,7386,1,Ignatius,Hengfan
+1494,0,0,61946,1178,0,Thomasa,Bassa
+1495,1,0,92878,4759,1,Ellsworth,Chiantla
+1496,1,0,66293,3320,1,Hailey,Braunschweig
+1497,0,1,36772,2616,1,Shawn,Huambo
+1498,1,1,70654,3428,1,Napoleon,Vila Chã do Monte
+1499,0,1,52471,3939,0,Laurette,Pucara
+1500,1,1,45178,5680,0,Biddie,Aygek
+1501,0,0,45368,8760,1,Pinchas,Wangmeng
+1502,1,1,97955,5637,0,Marika,Gaotuo
+1503,1,1,91566,5805,0,Wanda,Ressano Garcia
+1504,1,0,31581,5425,1,Thaine,Mỹ Xuyên
+1505,1,0,99516,7826,0,Harriot,Bor
+1506,0,1,44527,7928,1,Bren,Nizhnekamsk
+1507,0,0,25511,8319,1,Moishe,Prantaan
+1508,1,0,51893,8844,1,Jock,Safara
+1509,0,1,78825,2254,0,Juline,Bi’r al ‘Abd
+1510,0,1,88689,7410,1,See,Dobra
+1511,1,1,62782,4176,1,Dino,Shōbu
+1512,0,0,78794,6119,0,Nikoletta,Sabugal
+1513,1,1,79711,3430,0,Elyssa,Verrettes
+1514,1,1,89557,4015,0,Dian,Ichinoseki
+1515,1,1,27466,5820,1,Tyrus,San Juan
+1516,0,1,45084,6246,1,Gaspard,São Mamede
+1517,1,0,67413,2240,1,Brooks,Borova
+1518,0,0,20027,6900,0,Robinetta,Balangkayan
+1519,0,0,26658,6456,1,Rorke,Yujia’ao
+1520,0,1,45426,6946,0,Karel,Sydney
+1521,0,0,74376,5931,0,Minnnie,Santa Monica
+1522,0,1,46514,6577,0,Connie,Novoanninskiy
+1523,0,1,36652,1923,0,Elsbeth,Ash Shuqayrah
+1524,0,0,95437,9376,1,Manolo,Agoncillo
+1525,0,0,97972,3110,0,Clarissa,Benavila
+1526,0,1,37633,6381,0,Misha,San Miguel
+1527,0,1,52797,3650,0,Gwendolyn,Gonghe
+1528,1,0,42905,1509,0,Nathalia,Cocachacra
+1529,1,0,99575,2039,0,Timi,Chengbei
+1530,0,1,59067,1065,0,Caria,Tim
+1531,0,0,76671,7215,0,Terra,Pervomayskoye
+1532,1,1,75159,2263,0,Sharon,Piedecuesta
+1533,1,1,39131,4928,0,Lily,Kramators’k
+1534,1,1,68526,6492,0,Lynsey,Karlshamn
+1535,1,0,31039,9823,1,Antonino,Libas
+1536,0,1,90471,1480,1,Dev,Gazli
+1537,1,1,62919,8989,1,Israel,Anār
+1538,0,1,68543,5568,0,Venita,Koga
+1539,0,1,25899,8120,1,Morris,Mashui
+1540,0,0,28442,7055,0,Gabriel,Areado
+1541,0,0,71069,6159,0,Doralia,Bahía Honda
+1542,1,0,68760,7344,1,Berkley,Všestary
+1543,1,0,27638,9832,0,Caron,Vakhrushi
+1544,1,0,32080,7744,0,Karlyn,Isak
+1545,1,0,82171,3544,1,Bondy,Opatów
+1546,0,1,24614,2337,0,Caresse,Alfortville
+1547,0,1,37708,6600,0,Tori,Bystřice nad Pernštejnem
+1548,0,1,82124,2995,1,Berk,Třinec
+1549,0,1,62119,1183,1,Gerick,Wirodayan
+1550,1,0,50528,9416,1,Yvor,Linjiang
+1551,1,1,89848,4737,1,Zebedee,Tailing
+1552,0,1,43804,9295,0,Eleen,Moganshan
+1553,1,1,30460,1843,0,Mathilde,Sesheke
+1554,1,1,22196,1793,1,Abe,Duntou
+1555,1,1,47465,2523,0,Genvieve,Chatian
+1556,1,1,49666,1506,1,Byram,Frederiksberg
+1557,0,0,34046,5785,1,Franky,Strängnäs
+1558,1,0,96559,2802,1,Dun,Нераште
+1559,1,0,79330,8090,1,Sylvester,Batambak
+1560,0,1,76562,8943,1,Durand,Shanglian
+1561,0,1,64090,7505,0,Beret,Sunfang
+1562,1,1,46730,9648,1,Jed,Kurba
+1563,1,0,49528,5949,0,Britteny,Londres
+1564,0,1,74209,9246,1,Edgard,Yanqian
+1565,1,0,36960,1499,1,Stanford,Tarczyn
+1566,0,1,44731,3302,0,Teena,Purísima
+1567,0,0,48234,3881,0,Rozina,Nai Harn
+1568,0,1,50081,5127,0,Una,Igboho
+1569,0,1,70747,9228,0,Estel,Östersund
+1570,1,1,80594,6026,0,Kris,Lousado
+1571,0,0,33679,1138,1,Sylvan,Saint Joseph
+1572,0,0,98562,3404,0,Gwendolen,Tharyarwady
+1573,1,1,95148,7031,1,Renaldo,Mira
+1574,1,1,59579,4851,1,Lezley,Wysoka
+1575,0,0,33303,5231,1,Bennett,Nuquí
+1576,1,1,34018,3805,0,Lilli,Shreveport
+1577,1,1,74224,5713,1,Timothee,Talldaww
+1578,0,1,88393,6641,0,Viva,Bulan
+1579,1,0,55376,5473,0,Diahann,Quế Sơn
+1580,0,1,42991,3500,1,Gal,Daxing
+1581,1,1,88260,8139,0,Agna,Wangjiaping
+1582,0,0,38209,1510,0,Leland,Uglyanets
+1583,1,0,40644,5868,0,Marlo,Gujba
+1584,0,1,35409,7492,1,Radcliffe,Amorim
+1585,0,1,99236,1958,0,Marrilee,Qili
+1586,1,1,90946,4098,1,Nikolai,Wasquehal
+1587,1,0,71539,5734,1,Konstantine,Portela
+1588,0,1,79163,1879,1,Benjamin,Protección
+1589,1,1,52958,5996,1,Uriel,Nanchoc
+1590,1,1,41390,5018,0,Crissy,Truskavets
+1591,0,0,49470,5272,1,Carter,Huakoulongtan
+1592,1,0,90322,7636,1,Adlai,Laimuda
+1593,0,0,22827,7524,0,Lianne,Gombong
+1594,1,0,99265,8392,0,Felicia,Banjar Tengah
+1595,0,1,80629,6780,1,Emelen,Nāgarpur
+1596,0,0,65627,2226,1,Rochester,Madoi
+1597,1,0,30834,2423,0,Dorette,Pitangui
+1598,0,0,32070,2461,1,Jim,Buenavista
+1599,1,1,26637,5689,0,Garland,Kushtia
+1600,0,1,49370,2002,0,Noellyn,Liliongan
+1601,0,1,90987,4506,0,Vonnie,Piaski
+1602,1,1,34963,4196,0,Dre,Cojata
+1603,1,0,65741,5621,1,Eugenio,Padova
+1604,1,1,75911,5772,0,Xylia,Parys
+1605,0,0,64646,1950,1,Chet,Bolaoit
+1606,1,0,20017,1270,0,Leora,Manzanares
+1607,0,1,56127,7629,1,Wang,Krabi
+1608,0,1,96499,9965,1,Dani,Mojo
+1609,0,0,98433,2932,1,Carolus,Shuanghe
+1610,1,0,23399,4753,1,Brett,Naguilian
+1611,1,1,73753,9652,0,Charo,Hagonoy
+1612,1,0,37332,1916,0,Camile,Féres
+1613,0,1,59184,2863,0,Ursala,Skänninge
+1614,1,0,77132,8188,0,Minda,Stegna
+1615,1,0,75673,2383,1,Niles,Maochen
+1616,0,0,68538,6375,0,Roxine,Monroe
+1617,1,0,35971,4376,0,Tiffanie,Dampek
+1618,0,0,24646,5130,1,Normie,Tumen
+1619,1,1,73265,4707,0,Kat,Songhae
+1620,1,0,50129,5118,1,Ludovico,Mondoteko
+1621,1,0,44627,4804,1,Harcourt,Leloboko
+1622,0,1,81073,9540,1,Inness,Guling
+1623,0,0,22255,8037,0,Rose,Yunmeng Chengguanzhen
+1624,1,1,51315,5079,1,Benjy,Mulatupo
+1625,1,1,25756,8967,1,Tyrus,Pindamonhangaba
+1626,0,0,36797,5621,0,Clara,El Pino
+1627,0,1,32552,8779,1,Elmore,Vilar do Monte
+1628,0,0,85415,4679,1,Ciro,Longquan
+1629,0,0,33892,5758,0,Luelle,Hecun
+1630,0,0,96770,3019,0,Elianore,Sydney
+1631,0,0,53997,2448,0,Zarla,Berlín
+1632,1,0,80032,3097,0,Wynny,Torbeck
+1633,1,0,78296,8916,1,Elmer,Caromatan
+1634,1,1,41391,7434,0,Carena,Przasnysz
+1635,0,1,91895,9908,0,Theodora,Goianésia
+1636,0,0,27782,7021,0,Ashleigh,Kyŏngsŏng
+1637,1,0,78183,3826,0,Lana,Pokrovskoye
+1638,1,1,74364,7511,1,Clementius,Palmas
+1639,1,0,93822,2980,1,Sinclare,Vân Đình
+1640,1,1,53255,8329,1,Marlowe,Celso Ramos
+1641,1,0,82278,7097,1,Dallis,Riangwale
+1642,0,0,22890,1611,1,Ham,Notsé
+1643,1,1,73211,4867,1,Roderigo,Yueshan
+1644,0,1,51308,1507,0,Abby,Charlotte Amalie
+1645,1,1,96867,5977,1,Paulo,Kedungdoro
+1646,1,1,53936,2420,0,Jobie,Banqiao
+1647,1,0,32507,9522,0,Shanon,Arīḩā
+1648,1,1,38787,4795,1,Jimmie,Cekcyn
+1649,0,0,70725,5280,1,Rolfe,Longkali
+1650,1,0,68493,3422,0,Clio,Detroit
+1651,0,1,56896,7582,0,Zahara,Gaohu
+1652,1,0,84311,3893,0,Arlee,Cheongpyeong
+1653,1,1,62612,1292,0,Drusie,Fangtang
+1654,0,0,23331,3357,0,Angelique,Il’skiy
+1655,0,1,30697,6617,0,Caprice,Banjarbaru
+1656,1,0,74664,7381,0,Emmey,Karpogory
+1657,1,1,60771,1468,1,Edlin,Reims
+1658,1,0,87423,4413,0,Darline,Osypenko
+1659,1,0,41224,4940,1,York,Åmål
+1660,0,1,20678,3487,0,Elva,Berck
+1661,0,0,57074,9308,1,Heywood,Yamen
+1662,0,0,85284,5709,1,Alric,Xiyang
+1663,0,0,99347,5557,0,Valeria,Saint-Denis
+1664,1,1,51542,5472,1,William,Vorontsovka
+1665,0,0,47439,9421,1,Sloan,Ashchysay
+1666,0,0,26535,4743,1,Car,Chicago
+1667,0,1,71692,2615,0,Amata,Busdi
+1668,1,1,50604,3667,1,Chalmers,Lincheng
+1669,1,1,56009,3679,0,Flory,Khāsh
+1670,0,1,87833,9377,0,Piper,Gandusari
+1671,1,0,68971,6423,1,Jereme,København
+1672,1,0,34562,1621,1,Carly,Guantouzui
+1673,1,1,34024,8239,0,Cicely,Norak
+1674,1,1,48077,9766,1,Everett,Benešov
+1675,1,0,80068,6835,1,Seth,Gryazovets
+1676,0,0,31629,9754,0,Britta,Castanheira de Pêra
+1677,1,0,49819,9795,1,Mathian,Japerejo
+1678,1,0,66782,5378,0,Nola,České Meziříčí
+1679,1,0,50645,5254,1,Ware,President Roxas
+1680,0,0,27487,5619,1,Jimmie,Čapljina
+1681,1,1,43393,2615,0,Katrine,Tama
+1682,1,0,47406,3915,1,Paco,Cibingbin
+1683,1,0,95523,1079,0,Ashley,Sakaiminato
+1684,1,1,80640,6781,0,Greer,Al Bāriqīyah
+1685,0,1,38421,5062,1,Vaughan,Skalbmierz
+1686,0,1,27428,2091,1,Ulysses,Dakhla
+1687,0,0,56181,4722,0,Gabrielle,Chenji
+1688,1,1,64043,4984,1,Ade,Lanxi
+1689,0,1,36509,2054,0,Ebony,Soritor
+1690,1,0,86687,3490,0,Margarete,Cruz
+1691,1,1,56412,5841,0,Daria,Grimstad
+1692,0,0,83731,9616,1,Hercules,Vilares
+1693,1,0,44830,8648,1,Vaughn,Baicheng
+1694,1,1,41009,9250,0,Tedi,Sarangmeduro
+1695,0,0,82109,5529,0,Ollie,Madala
+1696,1,0,35498,1005,0,Amargo,Agía Triáda
+1697,1,0,20220,2808,0,Tim,Fátima
+1698,1,0,54168,9338,1,Simmonds,Thị Trấn Ngan Dừa
+1699,1,0,54946,9797,1,Cale,Ambositra
+1700,0,1,37480,3444,1,Baxie,Agnibilékrou
+1701,1,1,63910,7804,1,Alaster,Roa
+1702,0,1,90808,7681,1,Rollo,Gon’ba
+1703,1,1,21396,9152,1,Dominick,Titay
+1704,0,1,70186,2033,1,Darbee,Aban
+1705,0,0,73394,7314,0,Ernesta,Lumbac
+1706,0,0,92026,8043,1,Roma,San Pa Tong
+1707,1,0,66660,8299,1,Christos,Jingling
+1708,0,0,31700,6731,1,Barthel,Linköping
+1709,0,0,52979,1464,0,Rae,Kamigyō-ku
+1710,1,0,26747,2671,0,Mahalia,Nivnice
+1711,0,1,49422,8831,1,Shepherd,Stockholm
+1712,0,0,50047,7243,1,Angel,Ngadri
+1713,1,1,49015,6568,1,Kevin,Palaihari
+1714,0,1,76661,6104,0,Goldarina,Wyszogród
+1715,1,0,29632,2516,1,Alberto,Mingcheng
+1716,0,1,77255,1866,0,Cathleen,Grazhdanka
+1717,0,1,39544,7630,0,Tobey,Pasacao
+1718,0,0,58427,6993,1,Iver,Bacolod
+1719,0,1,85299,2789,1,Nat,Pandan
+1720,1,0,61601,8144,1,Yvon,Thị Trấn Pác Miầu
+1721,0,0,99436,9628,0,Jacinta,Conceição da Feira
+1722,0,0,60821,7487,0,Manon,Kawerau
+1723,1,1,63313,7182,0,Rory,Oslo
+1724,1,1,29711,3913,1,Roland,Khamyāb
+1725,1,1,62817,5296,0,Rae,Dammarie-les-Lys
+1726,0,1,75769,4666,1,Gaby,Ma’an
+1727,0,0,50780,7560,1,Gunner,Shatian
+1728,1,1,73597,9965,0,Chelsey,Hacıqabul
+1729,1,0,68242,9323,1,Dalis,Tirlyanskiy
+1730,0,0,50199,3509,1,Valdemar,Bayanbaogede
+1731,1,0,45112,4758,1,Antony,Kotablolong
+1732,1,1,65393,1498,0,Eileen,El Salitre
+1733,0,1,49484,8464,0,Robbie,Shangtian
+1734,1,0,70039,1854,1,Donny,Le Mans
+1735,0,1,32282,2635,0,Lonee,Qianzhou
+1736,1,1,65530,4819,0,Devan,Palmas Bellas
+1737,0,0,60625,3344,0,Christye,Mingguang
+1738,0,0,59629,3127,1,Sollie,Glogovac
+1739,0,1,74838,7769,1,Reid,Dabai
+1740,0,1,34345,7335,1,Mar,Pandanrejokrajan
+1741,1,1,83745,8547,1,Pascal,Sidorejo
+1742,1,0,22423,4548,0,Kala,Bieqiao
+1743,0,0,30381,7347,1,Murray,Yaodian
+1744,0,1,74075,2839,0,Maighdiln,Liufu
+1745,0,1,41468,4318,0,Bridgette,At-Bashi
+1746,1,1,85507,9086,1,Wiley,Kabac
+1747,0,1,41708,5672,0,Maiga,Shuguang
+1748,0,1,40977,2813,0,Janine,Motala
+1749,1,1,56661,1570,0,Nedi,Paris 19
+1750,1,0,75934,5488,0,Fanya,Nol
+1751,1,0,84236,7458,1,Hogan,Vitória
+1752,0,0,25998,1398,1,Chrisse,Florida
+1753,0,0,58894,2388,0,Tallulah,Sterling
+1754,1,0,51093,5881,0,Hedy,Dunkerque
+1755,1,1,58237,2135,0,Susanetta,Batanghari
+1756,1,1,43218,2434,0,Constantine,Sathon
+1757,1,1,53464,6612,1,Tanny,Luobei
+1758,0,1,51430,8738,1,Natale,Cimişlia
+1759,0,1,22854,8380,0,Angelique,Sakaidechō
+1760,0,0,89493,5090,0,Rhiamon,Głubczyce
+1761,0,0,20455,7916,1,Boone,Mengjia
+1762,0,1,37181,5404,1,Blayne,Maagnas
+1763,1,0,89824,7480,0,Marthe,Klwów
+1764,0,1,83037,4204,0,Bobbette,Montpellier
+1765,1,1,79415,5184,0,Celesta,San Antonio
+1766,0,1,91915,8572,0,Phylis,Boyuibe
+1767,1,1,67753,4838,0,Jodi,Alor Setar
+1768,1,0,42760,8836,0,Magdaia,Bang Klam
+1769,1,0,46387,5083,0,Andromache,Ganyesa
+1770,1,1,25318,8697,1,Adham,Ḩawallī
+1771,1,0,94689,5759,1,Borden,Lichtenburg
+1772,0,0,79281,2763,0,Kara,Sakai-nakajima
+1773,1,1,65751,5555,1,Edik,Aguas Verdes
+1774,1,1,28006,9099,0,Bell,Jammāl
+1775,1,1,90607,1363,1,Logan,Itami
+1776,1,1,26124,3944,1,Michel,Itupiranga
+1777,1,0,74416,2226,1,Stanley,Severo-Yeniseyskiy
+1778,0,1,92145,9346,0,Tedi,Myślenice
+1779,1,0,20285,1071,0,Ros,Sulang Tengah
+1780,1,0,68777,1086,0,Elianore,Caomiao
+1781,1,0,55082,4026,0,Caren,Yangi-Nishon Shahri
+1782,1,0,23517,1633,1,Haskel,Pitanga
+1783,1,1,90134,6341,1,Calv,Lachowice
+1784,1,0,64279,2273,0,Rosemarie,Gjinkar
+1785,1,0,96674,8999,1,Vladamir,Setaka
+1786,1,1,44219,8453,1,Gram,Tétouan
+1787,1,0,58255,1433,0,Meridith,Aoji-ri
+1788,0,0,26422,2225,0,Jo ann,Novo Hamburgo
+1789,1,1,88162,1183,1,Dar,Bunog
+1790,0,1,31433,1551,1,Chicky,Goseong
+1791,1,1,47689,7899,1,Federico,Tomobe
+1792,1,0,28961,7287,0,Dianne,Kościerzyna
+1793,0,1,67708,8194,0,Theresita,Hekou
+1794,1,1,85441,4818,1,Benji,Al Bāriqīyah
+1795,1,1,20504,7833,0,Ashien,Ruchihe
+1796,1,1,54394,1371,1,Nevil,Pantaibesar
+1797,1,1,71371,4326,1,Isador,Haguimit
+1798,1,1,48218,7326,1,Wakefield,Borabue
+1799,0,0,73323,4004,0,Alberta,Washington
+1800,1,0,63826,1533,1,Sayre,Sukadami
+1801,0,1,57976,3035,0,Vivienne,Jiakexi
+1802,0,1,38956,8441,0,Michaella,Jinhu
+1803,1,0,70772,4668,0,Anna-diana,Panaytayon
+1804,1,0,61966,3048,0,Ines,Roches Noire
+1805,1,1,35432,8750,0,Milena,Peñal
+1806,0,0,71904,8230,1,Stern,Kozhva
+1807,0,0,82355,7999,0,Henrieta,Krajansumbermujur
+1808,1,1,95818,1251,0,Eleanore,Mooirivier
+1809,1,0,66857,4306,0,Frayda,Chengshan
+1810,0,0,86740,5595,1,Randall,Corozal
+1811,0,1,73068,4010,0,Stormi,Plácido de Castro
+1812,0,0,83091,3290,1,Harry,Rozwadza
+1813,0,1,27618,8474,1,Currey,Ziyang
+1814,0,0,28192,4774,1,Laird,Zgornje Pirniče
+1815,1,1,71119,9277,0,Lindsey,Karanggeneng
+1816,0,0,96946,5615,0,Binny,Xinglong
+1817,0,1,31062,2711,0,Cordelia,Sandefjord
+1818,1,1,92502,9639,1,Krisha,Magoúla
+1819,1,0,46589,7330,1,Eldredge,Babak
+1820,1,1,50337,2688,0,Beatriz,Gayam
+1821,1,1,22684,8810,1,Hubie,Vrtojba
+1822,0,0,86406,8082,0,Jeanelle,Xianlong
+1823,1,1,68418,4549,1,Elia,Kungälv
+1824,1,0,30063,2510,1,Jeddy,Praya
+1825,1,0,56447,1881,1,Isa,Limonade
+1826,1,1,42388,1181,0,Leeanne,Obikiik
+1827,1,0,29833,2618,0,Megen,Vingåker
+1828,0,1,77097,1932,0,Liane,Nanyi
+1829,0,1,51934,3430,0,Verene,Qinglung
+1830,0,1,72869,2771,0,Joann,Guarapuava
+1831,0,1,23408,4351,0,Flossy,Sambava
+1832,1,0,49964,1177,1,Ario,Susoh
+1833,0,0,48163,1020,0,Damaris,Longshan
+1834,1,1,70808,5080,1,Boyd,Bariri
+1835,0,0,79684,5778,1,Hazlett,Noyal-sur-Vilaine
+1836,0,1,84853,7333,1,Shaw,Malabang
+1837,0,1,84804,4390,0,Coreen,Buritis
+1838,1,0,70258,4735,1,Raleigh,Bagnères-de-Bigorre
+1839,1,1,34875,8406,0,Minerva,Sasykoli
+1840,0,0,30060,2590,1,Benedicto,Artsvaberd
+1841,0,1,76478,1183,1,Rooney,Tucupita
+1842,1,1,72487,2438,0,Dayna,Longshe
+1843,1,0,52897,4843,1,Carling,Futang
+1844,0,1,57601,4433,1,Howie,Antonina
+1845,0,0,70627,7577,0,Trudey,Villa Francisca
+1846,1,0,88420,1854,0,Eyde,San Antonio
+1847,0,0,22342,3980,0,Marcile,Loakulu
+1848,0,0,26892,4546,0,Rachelle,Pamplona/Iruña
+1849,1,1,69348,5464,0,Gennie,Saint-Cloud
+1850,0,0,41864,3525,1,Gustav,Luzern
+1851,0,1,76391,5457,1,Allyn,Kulpin
+1852,1,0,74408,4397,0,Lavinie,San Juan de Mata
+1853,1,1,75795,7511,0,Zola,Nashville
+1854,0,1,51319,7051,0,Keelia,Jaguarari
+1855,1,1,91226,7680,1,Baxter,Stare Pole
+1856,1,1,72219,4819,1,Griffie,Singkup
+1857,1,0,55618,1291,0,Violetta,Topi
+1858,0,0,37895,9276,0,Teri,Shuishaping
+1859,0,1,82003,2395,1,Cort,Zernograd
+1860,0,1,61115,5011,0,Jenda,Girsereng
+1861,0,0,89113,4195,0,Hyacinth,Nicasio
+1862,0,0,33916,6410,1,Silvano,Sulęcin
+1863,0,1,71102,9964,1,Leonerd,Siem Reap
+1864,1,1,73592,2131,1,Kippie,Cavaillon
+1865,1,0,58903,2070,1,Osmund,Schieren
+1866,1,0,47153,8136,1,Bogart,Noisy-le-Grand
+1867,0,1,35015,7900,1,Frasier,Shanxia
+1868,1,0,92186,9821,1,Johnny,Pyetrykaw
+1869,0,1,94541,4904,0,Sascha,Bang Bua Thong
+1870,1,0,87280,4865,0,Bryana,Qixing
+1871,0,0,37890,6612,1,Griffith,Uchkeken
+1872,1,0,35897,5449,1,Carrol,Boracéia
+1873,0,1,91711,6512,1,Giusto,Jambangan
+1874,1,1,66673,5661,1,Mano,Minnedosa
+1875,1,1,78426,8360,1,Tyrone,Raman
+1876,0,0,80903,6625,1,Grantham,Sukorejo
+1877,0,1,31547,3266,1,Aleksandr,Jianggu
+1878,0,0,47516,1759,1,Pernell,Jagüey Grande
+1879,1,0,76724,9946,0,Catha,Furongqiao
+1880,0,0,38618,2612,1,Jarrod,Selaphum
+1881,0,1,83553,3222,1,Bern,Vary
+1882,0,0,34838,8774,1,Ernie,Amagasaki
+1883,0,1,77043,3849,1,Randi,Kebon
+1884,1,0,47018,9595,0,Donny,Luopu
+1885,1,1,85076,5333,1,Sayre,Kuaro
+1886,1,0,24219,4963,0,Elise,Anin
+1887,0,0,32484,2702,0,Jessika,Santa Tecla
+1888,0,1,55099,6112,0,Hestia,Lisewo
+1889,1,0,59835,4341,0,Lauryn,Tubualá
+1890,0,1,32656,3814,0,Kirsti,Taltal
+1891,1,0,30037,6171,0,Ronna,Gainesville
+1892,1,0,92602,8051,1,Timmy,Lao Suea Kok
+1893,0,1,53605,3281,1,Guillermo,Maastricht
+1894,0,0,20554,6195,1,Harmon,Tengah
+1895,1,1,76278,1641,0,Noelani,Gang
+1896,0,0,45417,5451,1,Andonis,Mollas
+1897,1,1,41154,6732,0,Loralie,Dajasongai
+1898,0,0,71841,1936,1,Fidelio,Al Karāmah
+1899,0,1,80083,9448,1,Hamlin,Baytā al Fawqā
+1900,0,0,87901,8786,1,Pace,Chonghe
+1901,1,1,42100,9843,0,Elisha,Liuche
+1902,0,0,45701,5222,1,John,Thị Trấn Hùng Quốc
+1903,0,1,59066,7833,0,Natalina,Pontalina
+1904,1,1,35188,6243,1,Kenon,Lamduan
+1905,1,1,62220,8441,0,Shelbi,Wang Saphung
+1906,0,1,24709,9187,0,Delinda,Kazo
+1907,0,1,51804,7088,0,Aubrie,Cienfuegos
+1908,1,0,50516,8324,0,Concettina,Jiangwei
+1909,1,1,98428,7631,0,Christina,Eindhoven
+1910,1,1,41536,3004,1,Kimball,Jakubów
+1911,1,0,24226,2002,1,Dannel,Kemiri
+1912,1,0,95204,3824,0,Rafaela,Nouvelle France
+1913,0,1,55204,3614,1,Delmar,Sancha
+1914,1,1,42927,7798,1,Talbot,Awka
+1915,1,0,30892,3822,0,Kelcy,Shikeng
+1916,0,0,88871,3813,0,Jolee,Turija
+1917,0,1,73308,8634,1,Dmitri,Mananara
+1918,1,0,45356,5810,0,Dominique,Higashine
+1919,1,0,36711,9770,1,Gaspard,Hammam Sousse
+1920,0,1,29326,2014,1,Perice,Zhongzuiling
+1921,0,1,48178,4655,1,Gordan,Baryshevo
+1922,1,1,45601,8452,1,Obie,Queimados
+1923,0,1,65226,9630,1,Monro,Al Manzilah
+1924,1,0,92203,6644,0,Mia,Sibubuhan
+1925,1,1,48930,9261,0,Arlen,Bima
+1926,0,0,75955,1073,1,Granny,Sendangagung
+1927,1,0,86524,6180,1,Jephthah,Los Cedrales
+1928,1,0,80954,8047,0,Stephie,Summerland
+1929,1,0,32521,2446,1,Ernst,Combita
+1930,1,0,59570,3004,1,Vlad,Baishui
+1931,0,0,69597,9225,0,Tanhya,Fengshan
+1932,0,0,95701,9889,1,Lucais,Real
+1933,1,1,30257,4798,1,Michele,Nishishinminato
+1934,0,1,48412,5790,1,Sherlock,Łubowo
+1935,0,1,64901,2064,0,Heda,Korniyivka
+1936,1,1,90579,4950,1,Sollie,Teresa
+1937,0,1,90617,1910,1,Raimondo,Bagong Barrio
+1938,1,1,52374,4824,1,Kimble,Rancagadog
+1939,0,0,71985,5227,1,Eben,Yuecheng
+1940,1,0,75054,8111,1,Thebault,Zhanping
+1941,1,1,97598,8075,0,Sorcha,General Lavalle
+1942,0,1,49536,9065,0,Valerye,Birmingham
+1943,0,0,66017,3024,0,Briny,Ar Rawnah
+1944,0,1,61667,1605,0,Anastasie,Mudian
+1945,1,1,67926,2166,1,Donny,5 de Mayo
+1946,0,0,80183,1586,0,Sallyann,Poja
+1947,1,1,96467,8345,0,Teddie,Jingmen
+1948,0,1,67360,4461,0,Philippine,San Vicente
+1949,0,0,88695,7387,1,Anders,Wissembourg
+1950,1,1,95710,1749,1,Gerri,Donabate
+1951,0,0,96378,6268,1,Morgun,Danilov
+1952,1,0,61999,8453,1,Wilton,Maroua
+1953,1,0,71902,9689,0,Rosetta,Lacolle
+1954,0,0,20386,2194,0,Wendeline,Changtang
+1955,1,1,42232,3268,1,Lanie,Tiron
+1956,1,0,34940,7359,0,Ines,Krasnyy Oktyabr’
+1957,0,1,80123,7023,1,Keefe,Świeradów-Zdrój
+1958,1,1,52007,6601,1,Cassie,Yezhu
+1959,1,0,52502,4066,0,Tanhya,Tayginka
+1960,1,0,69675,9190,0,Betty,Wārāh
+1961,0,1,96244,4786,1,Tremayne,Mikun’
+1962,0,0,51507,9850,0,Sharona,Unden
+1963,1,0,78741,9170,0,Reeta,Ust’-Labinsk
+1964,0,0,92292,5289,0,Kathleen,Rrapë
+1965,1,0,79485,6832,1,Cris,Gaoliang
+1966,1,0,32112,7080,0,Carol-jean,Saint-Maurice
+1967,0,1,68362,3061,1,Graig,São João das Lampas
+1968,1,0,50002,7329,0,Bryn,Stoszowice
+1969,1,0,86449,9821,1,Rod,Hongxi
+1970,0,0,88832,1084,1,Fransisco,Yingzhou
+1971,0,0,50624,7863,1,Reuven,Houston
+1972,0,0,38796,3892,0,Heddi,Seattle
+1973,1,0,76645,7047,0,Winni,Jingyang
+1974,1,1,84114,5984,1,Mahmud,Otoka
+1975,1,1,42413,6680,1,Hoebart,Naprawa
+1976,0,1,52944,9834,1,Zared,Megalochórion
+1977,0,1,51736,1610,1,Jerrie,Lyubech
+1978,0,1,56022,1675,1,Gasper,Houjia
+1979,1,1,51778,7669,1,Damian,Guangang
+1980,1,0,93487,7270,0,Carmel,Chuquitira
+1981,0,1,72833,8428,1,Francois,Fatuhilik
+1982,0,0,24913,7284,0,Letta,Lom Sak
+1983,1,1,22250,2875,1,Neall,Vylkove
+1984,0,0,33402,6448,1,Martin,Osoyoos
+1985,1,1,20600,6580,0,Susana,Trucuk
+1986,1,1,44516,4970,1,Erie,Asadābād
+1987,0,0,50293,9019,0,Cornela,Vigan
+1988,1,1,34959,7121,1,Reed,Kasese
+1989,0,0,77129,8991,0,Alikee,Kimhae
+1990,1,1,68521,3235,1,Hershel,Bogorejo
+1991,0,0,96175,3401,1,Donalt,Pedreira
+1992,0,0,30286,3308,1,Harwell,Dobczyce
+1993,1,0,26732,2238,1,Alexandre,Bayeux
+1994,0,1,31969,5354,1,Donall,Moshkovo
+1995,1,0,23794,1412,0,Vittoria,Satte
+1996,0,1,54292,1468,1,Mozes,Salaza
+1997,1,0,63079,7574,0,Hally,Danderyd
+1998,1,0,69959,1788,1,Felice,Nowa Ruda
+1999,0,1,70333,7494,0,Issi,Zhangguanying
+2000,0,0,83376,8616,0,Ruby,Canghou

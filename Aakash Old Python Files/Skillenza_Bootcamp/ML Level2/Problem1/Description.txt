@@ -1,0 +1,30 @@
+Revenue is all that matters after all Innovations
+There isn’t a single day where we are not seeing a new technology emerging. At the same time, a lot of brilliant minds and companies are putting technology and ideas together and bringing them to the market in the form of software or applications. A wide range of people uses this software or applications to make parts of their life easier. Of course, the companies/humans behind these applications are benefitting a lot by generating huge revenue through sales across the world.
+
+Goal: You are a Machine Learning Engineer in XYZ company. The sales of different software/applications developed by top companies and start-ups across the world are given to you. Your goal is to build an ML model to predict global sales by making use of multiple attributes.
+
+Data Description: The given data is about sales across different regions of the world
+Attribute Information:
+
+id: Unique identifier for each row.
+Application: This attribute represents the name of Application/software
+Device: This attribute represents the type of device the application/software is compatible with.
+Launch Year: This attribute tells in which year the application/software is released.
+Developer_comapny: This attribute represents the name of the company where the application is developed.
+Indian_Sales: This attribute represents sales in India.
+China_Sales: This attribute represents the sales in China.
+Korea_Sales: This attribute represents sales in Korea.
+Other_Sales: This attribute represents the sales in other regions of the world.
+Global_Sales: This attribute represents the sales globally.
+ScorebyCritic: This attribute represents the average score given by critics out of 100.
+No_ofCritics: This attribute represents the number of critics giving a score.
+ScorebyUser: This attribute represents the average score given by users out of 100.
+No_ofUsers: This attribute represents the number of users giving a score.
+Developer: This attribute represents the developer of the application/software.
+Overall_Rating: This attribute represents the overall rating gained by the application.
+Provided Files:
+
+training_data: This file consists of all the features. It should be used for both training and model validation purposes.
+test_data: Test file consists of all attributes except the target variable and prediction is to be made for all the rows in the test file.
+Sample_Submission: This file is an example of how the solution file is to be created.
+Objective Of The Problem: The objective of the problem is to predict global sales of different applications. This prediction may help your company stakeholders to make decisions on investing their bucks in different Application/software developer companies.

@@ -1,0 +1,37 @@
+Estimate Sales
+A famous bookseller named Book Hop is conquering the bookselling industry with a huge presence of thirty stalls across the world. They achieved good sales figures by selling a variety of books belonging to different genres in most of the stalls. Book hop is planning to increase the capacity of existing stalls by introducing new stalls as well. However, before proceeding to new initiations, the management team of Book Hop wants to know the estimation of sales for the forth-coming weeks in all the locations, which would really help in increasing their stall capacities and increasing the number of stalls in the same locations. So they have decided to give historical data and test some Engineers. They will check for better results and if they are satisfied with the results then engineers may get hired for future proceedings.
+
+Goal: Estimate the sales for multiple stalls, genres on the given day of a week.
+
+Constraints:
+
+For training the model, any data other than the data given in the train file should not be used.
+Any RNN-LSTM or any rule-based model should not be used to estimate results.
+Data Description: You are given with historical data of thirty Book Stalls across the world in different tables.
+
+Attribute Information:
+
+Master Table:
+Stall - Unique identifier for each stall.
+Size - Size of book stall.
+
+● Train/Data:
+Book_Stall - Unique identifier for each stall.
+Genre - Unique identifier for each genre.
+Week_Date - Represents a day in a week when sales is calculated.
+Sales_in_a_week - Represents amount of sales
+Holiday - Represents whether the day in a week is a holiday or not.
+
+More-Attributes:
+ID - Unique identifier for each stall.
+Date_in_a_week - Represents a day in a week when sales is calculated.
+Campaign 1 & 2 - Represents some anonymous data collected while conducting Promotional campaigns
+Consumer Price Index - Consumer price index measures changes in the price level of a weighted average market basket of consumer goods and services purchased by customers.
+Holiday - Represents whether the day in a week is a holiday or not.
+
+Provided Files:
+*Master* - Contains Master Data belonging to Stalls.
+Train/Data - Should use for training.
+Test - Should be used for testing and getting solution files.
+Schema - Helps you in merging data.
+Sample_Submission_format - This file is an example of how the solution file is to be created.
